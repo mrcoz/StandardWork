@@ -4,6 +4,26 @@ use Test;
 
 # Read standard work file: csvFile
 # Read Hendrix Order Export: xmlFile
+my $vinSt1 = '206202';
+my $vinSt2 = '205167';
+my $vinSt3 = '206129';
+my $vinSt4 = '206112';
+my $vinSt5 = '206173';
+
+my $prodTaskSt1 = "prodTaskSt1.csv";
+my $prodTaskSt2 = "prodTaskSt2.csv";
+my $prodTaskSt3 = "prodTaskSt3.csv";
+my $prodTaskSt4 = "prodTaskSt4.csv";
+my $prodTaskSt5 = "prodTaskSt5.csv";
+
+my %ProductionCycle = {
+  Station0 => # Prep / Offline Kitting
+  Station1 =>
+  Station2 =>
+  Station3 =>
+  Station4 =>
+  Station5 =>
+}
 
 # Generate VIN Specific Standard Work File: csv Format
 my $cnt = 0;

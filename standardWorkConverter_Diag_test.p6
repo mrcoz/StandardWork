@@ -4,6 +4,15 @@ use Test;
 
 # Read standard work file: csvFile
 # Read Hendrix Order Export: xmlFile
+my $vinDir = './data/vinXML';
+my $prodTackDir = './data/prodTasks';
+my $prodScheduleDir = './data/prodSchedule';
+my $prodScheduleData = '1611xx';
+
+say "Directory $vinDir exists: " ~ $vinDir.IO.e;
+say "Directory $prodTackDir exists: " ~ $prodTackDir.IO.e;
+say "Directory $prodScheduleDir exists: " ~ $prodScheduleDir.IO.e;
+
 my $vinSt1 = '206202';
 my $vinSt2 = '205167';
 my $vinSt3 = '206129';
@@ -16,22 +25,40 @@ my $prodTaskSt3 = "prodTaskSt3.csv";
 my $prodTaskSt4 = "prodTaskSt4.csv";
 my $prodTaskSt5 = "prodTaskSt5.csv";
 
-my %ProductionCycle = {
-  Station0 => # Prep / Offline Kitting
-  Station1 =>
-  Station2 =>
-  Station3 =>
-  Station4 =>
-  Station5 =>
+my $xmlFileName;
+my $csvFile;
+
+my %ProductionCycle;
+%ProductionCycle.push: ($vinSt5 => $prodTaskSt5);
+%ProductionCycle.push: ($vinSt4 => $prodTaskSt4);
+%ProductionCycle.push: ($vinSt3 => $prodTaskSt3);
+%ProductionCycle.push: ($vinSt2 => $prodTaskSt2);
+%ProductionCycle.push: ($vinSt1 => $prodTaskSt1);
+
+
+for %ProductionCycle.sort(*.key)>>.kv -> ($xmlFileName, $csvFile) {
+  "$xmlFileName: $csvFile".say;
+
+  # :i - ignore case
+  # ^ - matches at start of string
+  # $ - matches at end of string
+
+  #my @xmlFileList = $vinDir.IO.dir(test => /:i '.' xml$/)».Str;
+  my @xmlFileList = $vinDir.IO.dir(test => /^ $xmlFileName /)».Str;
+  say @xmlFileList.elems;
+
+  if @xmlFileList[0].IO.f {
+      say "file exists";
+      readXML (@xmlFileList)
+  }
+  else {
+      say "file doesn't exist";
+  }
+
 }
 
-# Generate VIN Specific Standard Work File: csv Format
-my $cnt = 0;
-my $xmlFileName;
-my @xmlFileList = dir(test => /:i '.' xml$/)».Str;
-for @xmlFileList -> $xmlDirFile {
-  $xmlFileName = $xmlDirFile;
-  my $xmlFile = slurp($xmlFileName);
+sub readXML (@xmlFileList) {
+  my $xmlFile = slurp(@xmlFileList[0]);
   my $xml = XML::Element.new($xmlFile);
   ok $xml ~~ XML::Element, 'Element parsed properly.';
 
@@ -71,72 +98,16 @@ for @xmlFileList -> $xmlDirFile {
     $trailerSize = $trailerSize ~ "FB";
   }
   say $trailerSize;
-  # *****************************************************************************
-  # my $csvFile = "ProcessFlow3.csv";
-  # my $csvFile = "Process Flow - st1.csv";
-  # my $csvFile = "Process Flow - st2.csv";
-  my $csvFile = "Process Flow - st3.csv";
-  # my $csvFile = "Process Flow - st4.csv";
-  # my $csvFile = "Process Flow - st5.csv";
-  my %standardWork;
-  my $cnt = 0;
-  my $colCnt = 0;
-  my @columnName;
-
-# my @data;
-# my $data-file = open $csvFile;
-# for $data-file.lines -> $line {
-#  @data.push($line.split(','))
-#v}
-
-  for $csvFile.IO.lines -> $line {
-      my @standardWorkItem = $line.split(',');
-      if @standardWorkItem[2] {
-        if $cnt == 0 { # Set 1st Row as Key for column
-          @columnName = @standardWorkItem;
-          $cnt++;
-        }
-        for @columnName -> $standardWorkHeader {
-          %standardWork.push: ($standardWorkHeader => @standardWorkItem[$colCnt]);
-          $colCnt++;
-        }
-        $colCnt = 0;
-    }
-  }
-  $csvFile = $xmlFileName ~ ".csv";
-  say $csvFile;
-
-  my $totalMin;
-  my $fh = open $csvFile, :w;
-
-  #say %standardWork{"Process_Name"}[].elems;
-  $fh.say(%standardWork{"Station"}[0] ~ ", " ~ %standardWork{"Process_#"}[0] ~ ", "
-  ~ %standardWork{"Process_Name"}[0] ~ ", " ~ %standardWork{$trailerSize}[0] ~ ", " ~ %standardWork{"People"}[0] ~ ", " ~ %standardWork{"Respoinsible"}[0]);
-
-  loop (my $i = 1; $i <= %standardWork{"Process_Name"}[].elems; $i++ ) {
-    if %standardWork{"Station"}[$i] {
-      if %standardWork{"Choice_Name"}[$i] {
-        if !%Order{%standardWork{"Choice_Name"}[$i]} {
-          say %standardWork{"Choice_Name"}[$i] ~ " - Missing from xmlFile";
-        }
-        else {
-          if %Order{%standardWork{"Choice_Name"}[$i]} eq %standardWork{"Choice_Value"}[$i] {
-            say %standardWork{"Choice_Name"}[$i] ~ " - Options";
-            $fh.say(%standardWork{"Station"}[$i] ~ ", ***" ~ %standardWork{"Process_#"}[$i] ~ "***, "
-            ~ %standardWork{"Process_Name"}[$i] ~ ", " ~ %standardWork{$trailerSize}[$i] ~ ", " ~ %standardWork{"People"}[$i] ~ ", " ~ %standardWork{"Respoinsible"}[$i]);
-            $totalMin += %standardWork{$trailerSize}[$i];
-          }
-        }
-      }
-      else {
-        $fh.say(%standardWork{"Station"}[$i] ~ ", " ~ %standardWork{"Process_#"}[$i] ~ ", "
-        ~ %standardWork{"Process_Name"}[$i] ~ ", " ~ %standardWork{$trailerSize}[$i] ~ ", " ~ %standardWork{"People"}[$i] ~ ", " ~ %standardWork{"Respoinsible"}[$i]);
-        $totalMin += %standardWork{$trailerSize}[$i];
-      }
-    }
-  }
-
-  $fh.say(",,," ~ $totalMin);
-  $fh.say(",,," ~ $totalMin/60);
-  $fh.close;
 }
+
+
+#say "testfile".IO.e;  # True
+#say "lib".IO.e;       # True
+# However, since only one of them is a directory, the directory test method d will give a different result:
+
+#say "testfile".IO.d;  # False
+#say "lib".IO.d;       # True
+# Naturally the tables are turned if we check to see if the path is a file via the file test method f:
+
+#say "testfile".IO.f;  # True
+#say "lib".IO.f;       # False

@@ -68,9 +68,9 @@ AC_Choices_Prod,1,3,3680,Set AC,*,5,5,5,5,5,5,,MH,,,,0,0,0,0,0,0
 AC_Choices_Prod,2,3,3680,Set 2 Acs,*,10,10,10,10,10,10,,MH,,Made this up,,0,,,,,
 ,,3,3690,Install Vents and Seal MaxAir Brackets,,15,15,15,15,15,15,,MH,,,,15,15,15,15,15,15
 VentCover_Bathroom_Choices_Prod,1,3,3700,Install MaxAir Covers - Bathroom,*,5,5,5,5,5,5,,MH,,,,0,0,0,0,0,0
-VentCover_Bedroom_Choices_Prod,1,,,Install MaxAir Covers - Bedroom,*,5,5,5,5,5,5,,MH,,,,,,,,,
-VentCover_Garage_Choices_Prod,1,,,Install MaxAir Covers - Garage,*,5,5,5,5,5,5,,MH,,,,,,,,,
-VentCover_Kitchen_Choices_Prod,1,,,Install MaxAir Covers - Kitchen,*,5,5,5,5,5,5,,MH,,,,,,,,,
+VentCover_Bedroom_Choices_Prod,1,3,,Install MaxAir Covers - Bedroom,*,5,5,5,5,5,5,,MH,,,,,,,,,
+VentCover_Garage_Choices_Prod,1,3,,Install MaxAir Covers - Garage,*,5,5,5,5,5,5,,MH,,,,,,,,,
+VentCover_Kitchen_Choices_Prod,1,3,,Install MaxAir Covers - Kitchen,*,5,5,5,5,5,5,,MH,,,,,,,,,
 ,,3,3710,Install Plumbing and Vent Covers and Tail Pipes,,15,15,15,15,15,15,,MH,,,,15,15,15,15,15,15
 StorageRack_Choices_Prod,1,3,3720,storage rack h style,*,45,45,45,45,45,45,,MH,,,,0,0,0,0,0,0
 StoragePlatform_Choices_Prod,1,3,3730,"storage platform ATP W/ 6"" side rails",*,60,60,60,60,60,60,,MH,,,,0,0,0,0,0,0
@@ -80,7 +80,7 @@ Solar_Choices_Prod,1,3,3740,install solar panal,*,15,15,15,15,15,15,,MH,,,,0,0,0
 ,,3,3770,Seal Under Front Radius and Down Front Edge,,18,18,18,18,18,18,,MH,,,,18,18,18,18,18,18
 ,,3,3780,Refer Vent Cap,,2,2,2,2,2,2,,MH,,,,2,2,2,2,2,2
 Antenna_Choices_Prod,1,3,3790,digital antenna,*,10,10,10,10,10,10,,MH,,,,0,0,0,0,0,0
-,,3,3800,"Upper Flow Thru Vent, Scene Light, Speakers",,35,35,35,35,35,35,,MH,,,,35,35,35,35,35,35
+,,3,3800,Upper Flow Thru Vent - Scene Light - Speakers,,35,35,35,35,35,35,,MH,,,,35,35,35,35,35,35
 ,,3,3810,Seal Under Rub Rail,,20,20,20,20,20,20,,MH,,,,20,20,20,20,20,20
 ,,3,3820,Kitchen Plumbing,,20,20,20,20,20,20,,JR,,,,20,20,20,20,20,20
 ,,3,3830,Install Kitchen Counter Top,,9,9,9,9,9,9,,JR,,,,9,9,9,9,9,9
@@ -89,21 +89,20 @@ Antenna_Choices_Prod,1,3,3790,digital antenna,*,10,10,10,10,10,10,,MH,,,,0,0,0,0
 LightsFlood_Choices_Prod,1,3,3860,drill holes for scene lights,*,2,2,2,2,2,2,,MH,,,,0,0,0,0,0,0
 LightsFlood_Choices_Prod,1,3,3870,install scene lights,*,10,10,10,10,10,10,,MH,,,,0,0,0,0,0,0
 ,,3,3880,Flow Through Vents,,20,20,20,20,20,20,,MH,,,,20,20,20,20,20,20
-trailerWidth85,1,3,3890,Trim Wheel Wells (8.5' wide only),*,,,10,10,10,10,,MH,,,,0,0,0,0,0,0
-,,3,3900,,,,,,,,,,,,,,0,0,0,0,0,0
-Package_FrontBedroom_Choices_Prod,1,3,3910,f.b. - only install plumbing kit,*,,,,,,35,,JW,,,,0,0,0,0,0,0
-Package_FrontBedroom_Choices_Prod,1,3,3920,f.b. - only install gas lines,*,,,,,,35,,JW,,,,0,0,0,0,0,0
-Package_FrontBedroom_Choices_Prod,1,3,3930,f. b. - install front cabinets,*,,,,,,80,,SR,,,,0,0,0,0,0,0
-Package_FrontBedroom_Choices_Prod,1,3,3940,f. b. - install mechanical cab. Set bedroom wall . Install azdel & radius,*,,,,,,130,,JW,,,,0,0,0,0,0,0
-Package_FrontBedroom_Choices_Prod,1,3,3950,"f. b. - install furnace,water heater,shower.install kitchen radius & azdel",*,,,,,,230,,JW,,,,0,0,0,0,0,0
-Package_FrontBedroom_Choices_Prod,1,3,3960,f. b. - install bath vanity & overhead cab,*,,,,,,35,,JW,,,,0,0,0,0,0,0
-Package_FrontBedroom_Choices_Prod,1,3,3970,f. b. -install toilet & shower faucet,*,,,,,,25,,JW,,,,0,0,0,0,0,0
-Package_FrontBedroom_Choices_Prod,1,3,3980,f.b. - install refer cab. & trim,*,,,,,,30,,JW,,,,0,0,0,0,0,0
-Package_FrontBedroom_Choices_Prod,1,3,3990,f.b. - install kitchen base cab. & countertop,*,,,,,,60,,JW,,,,0,0,0,0,0,0
-Package_FrontBedroom_Choices_Prod,1,3,4000,f. b. - install radius metal on bath- kit. Wall,*,,,,,,25,,JR,,,,0,0,0,0,0,0
+trailerWidth85,1,3,3890,Trim Wheel Wells (8.5' wide only),*,0,0,10,10,10,10,,MH,,,,0,0,0,0,0,0
+Package_FrontBedroom_Choices_Prod,1,3,3910,f.b. - only install plumbing kit,*,0,0,0,0,0,35,,JW,,,,0,0,0,0,0,0
+Package_FrontBedroom_Choices_Prod,1,3,3920,f.b. - only install gas lines,*,0,0,0,0,0,35,,JW,,,,0,0,0,0,0,0
+Package_FrontBedroom_Choices_Prod,1,3,3930,f. b. - install front cabinets,*,0,0,0,0,0,80,,SR,,,,0,0,0,0,0,0
+Package_FrontBedroom_Choices_Prod,1,3,3940,f. b. - install mechanical cab. Set bedroom wall . Install azdel & radius,*,0,0,0,0,0,130,,JW,,,,0,0,0,0,0,0
+Package_FrontBedroom_Choices_Prod,1,3,3950,f. b. - install furnace - water heater - shower.install kitchen radius and azdel,*,0,0,0,0,0,230,,JW,,,,0,0,0,0,0,0
+Package_FrontBedroom_Choices_Prod,1,3,3960,f. b. - install bath vanity and overhead cab,*,0,0,0,0,0,35,,JW,,,,0,0,0,0,0,0
+Package_FrontBedroom_Choices_Prod,1,3,3970,f. b. -install toilet and shower faucet,*,0,0,0,0,0,25,,JW,,,,0,0,0,0,0,0
+Package_FrontBedroom_Choices_Prod,1,3,3980,f.b. - install refer cab. and trim,*,0,0,0,0,0,30,,JW,,,,0,0,0,0,0,0
+Package_FrontBedroom_Choices_Prod,1,3,3990,f.b. - install kitchen base cab. and countertop,*,0,0,0,0,0,60,,JW,,,,0,0,0,0,0,0
+Package_FrontBedroom_Choices_Prod,1,3,4000,f. b. - install radius metal on bath - kit. Wall,*,0,0,0,0,0,25,,JR,,,,0,0,0,0,0,0
 ,,,,,,,,,,,,,,,,,,,,,,
 ,,,,Total (Min),,1417,1437,1427,1447,1471,2046,,,,,,1068,1088,1068,1088,1112,1002
-,,,,Total (Hours),,23.61666667,23.95,23.78333333,24.11666667,24.51666667,34.1,,,,,,17.8,18.13333333,17.8,18.13333333,18.53333333,16.70
+,,,,Total (Hours),,23.61666667,23.95,23.78333333,24.11666667,24.51666667,34.1,,,,,,17.8,18.13333333,17.8,18.13333333,18.53333333,16.7
 ,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,
 AC_Choices_Prod,,,,,,,,,,,,,,,,,,,,,,

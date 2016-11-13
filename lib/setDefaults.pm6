@@ -1,4 +1,4 @@
-unit module myModule;
+unit module setDefaults;
 
 # Read standard work file: csvFile
 # Read Hendrix Order Export: xmlFile

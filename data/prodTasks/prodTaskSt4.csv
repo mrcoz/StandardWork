@@ -13,11 +13,11 @@ Remove Option,1,4,4090,Flip Up Table,*,15,15,15,15,15,15,,NT,,,,0,0,0,0,0,0
 ,,4,4120,Main Switch Panel Hook Up      No Stereo 45 ,,45,45,45,45,45,45,,TS,,,,45,45,45,45,45,45
 Plumbing_3Season_Choices_Prod,1,4,4130,3 Season Plumbing,*,5,5,5,5,5,5,,TS,,,,0,0,0,0,0,0
 Radio_Choices_Prod,1,4,4140,Radio Hook up,*,8,8,8,8,8,8,,TS,,,,0,0,0,0,0,0
-trailerWidth70,1,4,4150,Fenders - 7 Wide,*,15,15,,,,,,NT,,,,0,0,0,0,0,0
+trailerWidth70,1,4,4150,Fenders - 7 Wide,*,15,15,0,0,0,0,,NT,,,,0,0,0,0,0,0
 ,,4,4160,Lower Rub Rail,,40,45,40,45,55,55,,NT,,,,40,45,40,45,55,55
-trailerWidth85,1,4,4170,Cut Fenders to Proper Length and Front Trim - 8.5 Wide,*,,,10,10,10,10,,NT,,,,0,0,0,0,0,0
+trailerWidth85,1,4,4170,Cut Fenders to Proper Length and Front Trim - 8.5 Wide,*,0,0,10,10,10,10,,NT,,,,0,0,0,0,0,0
 ,,4,4180,Wire Lower Clearance Lights,,15,15,15,15,20,20,,NT,,,,15,15,15,15,20,20
-trailerWidth70,1,4,4190,Fender Lights - 7.0 Wide,,30,30,,,,,,NT,,,,30,30,0,0,0,0
+trailerWidth70,1,4,4190,Fender Lights - 7.0 Wide,,30,30,0,0,0,0,,NT,,,,30,30,0,0,0,0
 ,,4,4200,Flow Through Vents,,20,20,20,20,20,20,,NT,,,,20,20,20,20,20,20
 TrimPanel_Choices_Prod,1,4,4210,Cut Stainless,*,2,2,2,2,2,2,,NT,,,,0,0,0,0,0,0
 ,,4,4220,Install Motorbase,,15,15,15,15,15,15,,TS,,,,15,15,15,15,15,15
@@ -42,7 +42,7 @@ LightsLoading_Choices_Prod,1,4,4400,Wire Loading Lights,*,2,2,2,2,2,2,,SR,,,,0,0
 ,,4,4410,Trim Ramp Door Opening,,20,20,20,20,20,20,,SR,,,,20,20,20,20,20,20
 ,,4,4420,Install Windows (All Std),,30,30,30,30,30,45,,SR,,,,30,30,30,30,30,45
 WindowsCS_Choices_Prod,1,4,4430,Install Windows - Middle CS,*,8,8,8,8,8,8,,SR,,,,0,0,0,0,0,0
-WindowsRS_Choices_Prod,1,,4440,Install Windows - Middle RS,*,8,8,8,8,8,8,,SR,,,,0,0,0,0,0,0
+WindowsRS_Choices_Prod,1,4,4440,Install Windows - Middle RS,*,8,8,8,8,8,8,,SR,,,,0,0,0,0,0,0
 ,,4,4450,Day and Night Shades,,20,20,20,20,20,25,,RW,,,,20,20,20,20,20,25
 ,,4,4460,ATP Kickplate,,45,50,45,50,55,55,,RW,,,,45,50,45,50,55,55
 AC_Choices_Prod,1,4,4470,Hook Up A/C (1st),*,31,31,31,31,31,31,,TS,,,,0,0,0,0,0,0

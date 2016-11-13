@@ -28,6 +28,8 @@ my %ProductionCycle = {
 # Generate VIN Specific Standard Work File: csv Format
 my $cnt = 0;
 my $xmlFileName;
+# :i - ignore case
+# $ - matches at end of string
 my @xmlFileList = dir(test => /:i '.' xml$/)».Str;
 for @xmlFileList -> $xmlDirFile {
   $xmlFileName = $xmlDirFile;

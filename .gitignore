@@ -2,3 +2,4 @@
 *.xml2
 
 data/archive/**
+lib/.precomp/**

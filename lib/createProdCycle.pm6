@@ -7,6 +7,7 @@ sub createCsvFile (%standardWork, %Order, $xmlFileName) is export {
   my $totalMin;
   my $row = '';
   for @header -> $colName { $row ~= %standardWork{$colName}[0] ~ ", "; }
+  $row ~= $xmlFileName;
   @configOrder.append($row);
 
   loop (my $i = 1; $i <= %standardWork{"Process_Name"}[].elems; $i++ ) {

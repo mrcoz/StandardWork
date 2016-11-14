@@ -22,6 +22,9 @@ for @ProductionCycle1 -> %h {
   my @xmlFileList = $vinDir.IO.dir(test => /^ $xmlFileName /)».Str;   # ^ - matches at start of string
   my @csvFileList = $prodTackDir.IO.dir(test => /^ $csvFileName /)».Str;   # ^ - matches at start of string
 
+  if (@xmlFileList) { }
+    else { say 'problems: ' ~ $xmlFileName; }
+
   if @xmlFileList[0].IO.f && @csvFileList[0].IO.f {
     %Order = readXMLFile(@xmlFileList);
     %standardWork = readProcessTasks(@csvFileList);

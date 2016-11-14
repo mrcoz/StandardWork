@@ -1,77 +1,106 @@
-Choice_Name,Choice_Value,Station,Process_#,Process_Name,Option,7.0x20,7.0x24,8.5x20,8.5x24,8.5x28,8.5x28FB,People,Responsible,Actual_Person,Date_Studied,,7.0x20_,7.0x24_,8.5x20_,8.5x24_,8.5x28_,8528FB_
-,,2,2010,Top weld and axles,,40,40,40,40,40,40,,Tator,,,,40,40,40,40,40,40
-,,2,2020,Install Coupler,,15,15,15,15,15,15,,RS,,,,15,15,15,15,15,15
-TieDownsFloor_Choices_ProdDRing,1,2,2030,Install D-Rings,*,52,52,52,52,71.5,52,,RS,,,,0,0,0,0,0,0
-TieDownsFloor_Choices_ProdATrack,1,2,2040,Cut A-Track Slots,*,25,30,25,30,35,25,,RS,,,,0,0,0,0,0,0
-,,2,2050,cut first piece of flooring  (7' wide),*,10,10,0,0,0,0,,RS,,,,0,0,0,0,0,0
-,,2,2060,Level Frame,,5,5,5,5,5,5,,BM,,,,5,5,5,5,5,5
-,,2,2070,Grind Top Welds,,15,15,15,15,20,20,,RS,,,,15,15,15,15,20,20
-,,2,2080,Set Wheel wells or Wheel Well Metal,,5,5,5,5,5,5,,RS,,,,5,5,5,5,5,5
-,,2,2090,Install flooring ( 2 people),,120,160,160,160,160,160,,BM,,,,120,160,160,160,160,160
-TieDownsFloor_Choices_ProdATrack,1,2,2100,Weld in A-Track Backer,*,35,35,35,35,40,35,,LS,,,,0,0,0,0,0,0
-TieDownsFloor_Choices_ProdATrack,1,2,2110,Install A-Track,*,58,75,58,75,96,58,,RS,,,,0,0,0,0,0,0
-,,2,2120,Drill Plumbing Holes and Toilet Drains,,12,12,12,12,12,12,,RS,,,,12,12,12,12,12,12
-,,2,2130,Drill Holes for Gas Lines and Low Points,,10,10,10,10,10,10,,RS,,,,10,10,10,10,10,10
-,,2,2140,install 3'' grommmets for holes,,10,10,10,10,10,10,,BM,,,,10,10,10,10,10,10
-,,2,2150,mark wall lines on floor/cover floor,,25,25,25,25,25,40,,RS,,,,25,25,25,25,25,40
-,,2,2160,cover floor,,20,20,20,20,20,20,,BM,,,,20,20,20,20,20,20
-,,2,2170,Set Walls - Rear Header - Front Walls,,30,30,30,30,30,30,,LS,,,,30,30,30,30,30,30
-,,2,2180,Set and Weld Roof,,40,40,40,40,45,45,,LS,,,,40,40,40,40,45,45
-,,2,2190,Final Weld on Sidewalls,,45,45,45,45,50,50,,LS,,,,45,45,45,45,50,50
-,,2,2200,final weld on front walls,,20,20,20,20,20,20,,RS,,,,20,20,20,20,20,20
-,,2,2210,Drill Holes for Wiring,,30,35,30,35,40,40,,RS,,,,30,35,30,35,40,40
-,,2,2220,Grommet All Holes Where Needed,,10,10,10,10,10,10,,RS,,,,10,10,10,10,10,10
-,,2,2600,Install Ground Wires,,10,10,10,10,10,10,,RS,,,,10,10,10,10,10,10
-,,2,2230,Rough Wire Unit (Front Bedroom: 4.5 hrs),,90,105,125,125,125,150,,BM,,,,90,105,125,125,125,150
-BedLift_Choices_ProdM,1,2,2240,Happijac - Middle,*,7.5,7.5,7.5,7.5,7.5,7.5,,,,,,0,0,0,0,0,0
-BedLift_Choices_ProdR,1,2,2250,Happijac - Rear,*,7.5,7.5,7.5,7.5,7.5,7.5,,,,,,0,0,0,0,0,0
-Dinette_Choices_ProdCSF,1,2,2260,Dinette CS - Front,*,1,1,1,1,1,1,,,,,,0,0,0,0,0,0
-Dinette_Choices_ProdCSM,1,2,2270,Dinette CS - Middle,*,1,1,1,1,1,1,,,,,,0,0,0,0,0,0
-Dinette_Choices_ProdCSR,1,2,2280,Dinette CS - Rear,*,1,1,1,1,1,1,,,,,,0,0,0,0,0,0
-Dinette_Choices_ProdRSM,1,2,2290,Dinette RS - Middle,*,1,1,1,1,1,1,,,,,,0,0,0,0,0,0
-Dinette_Choices_ProdRSR,1,2,2300,Dinette RS - Rear,*,1,1,1,1,1,1,,,,,,0,0,0,0,0,0
-AC_Choices_Prod,1,2,2320,A/C - 1st,*,8,8,8,8,8,8,,,,,,0,0,0,0,0,0
-AC_Choices_Prod,2,2,2330,A/C - 2nd,*,0,0,0,8,8,8,,,,,,0,0,0,0,0,0
-VentCover_Garage_Choices_Prod,1,2,2340,MaxxAir - Garage,*,8,8,8,8,8,8,,,,,,0,0,0,0,0,0
-VentCover_Kitchen_Choices_Prod,1,2,2350,MaxxAir - Kitchen,*,3,3,3,3,3,3,,,,,,0,0,0,0,0,0
-VentCover_Bathroom_Choices_Prod,1,2,2360,MaxxAir - Bathroom,*,3,3,3,3,3,3,,,,,,0,0,0,0,0,0
-VentCover_Bedroom_Choices_Prod,1,2,2370,MaxxAir - Bedroom,*,3,3,3,3,3,3,,,,,,0,0,0,0,0,0
-Antenna_Choices_Prod,1,2,2380,Digital Antenna,*,3,3,3,3,3,3,,,,,,0,0,0,0,0,0
-Radio_Choices_Prod,1,2,2390,Stereo,*,9,9,9,9,9,9,,,,,,0,0,0,0,0,0
-LightsFlood_Choices_Prod,1,2,2400,Scene Lights,*,5.5,5.5,5.5,5.5,5.5,5.5,,,,,,0,0,0,0,0,0
-LightsLoading_Choices_Prod,1,2,2410,Loading Lights,*,3.5,3.5,3.5,3.5,3.5,3.5,,,,,,0,0,0,0,0,0
-Solar_Choices_Prod,1,2,2420,Solar Panel,*,3,3,3,3,3,3,,,,,,0,0,0,0,0,0
-Generator_Choices_ProdFuelTank,1,2,2430,Fuel Station,*,3.5,3.5,3.5,3.5,3.5,3.5,,,,,,0,0,0,0,0,0
-Generator_Choices_ProdGenPlate,1,2,2440,Generator,*,8,8,8,8,8,12,,,,,,0,0,0,0,0,0
-,,2,2450,Grind Sidewalls,,25,30,25,30,35,35,,RS,,,,25,30,25,30,35,35
-,,2,2460,Square Front and Rear Ends,,10,10,10,10,10,10,,LS,,,,10,10,10,10,10,10
-,,2,2470,Cut Out Flooring for Doorway ,,10,10,10,10,10,10,,RS,,,,10,10,10,10,10,10
-,,2,2480,Caulk Floor Around Outside Edge,,5,5,5,5,5,5,,RS,,,,5,5,5,5,5,5
-,,2,2490,Radius Blocks in Window Corners,,10,10,10,10,10,10,,RS,,,,10,10,10,10,10,10
-WindowsCS_Choices_Prod,1,2,2500,Window CS Middle - Radius Blocks,*,0,0,0,0,1.5,1.5,,,,,,0,0,0,0,0,0
-WindowsRS_Choices_Prod,1,2,2510,Window RS Middle - Radius Blocks,*,0,0,0,0,1.5,1.5,,,,,,0,0,0,0,0,0
-,,2,2520,Azdel Front End,,30,30,30,30,30,30,,RS,,,,30,30,30,30,30,30
-,,2,2530,Set Interior Front Wall and Cage,,35,35,35,35,35,25,,RS,,,,35,35,35,35,35,25
-,,2,2540,Water Shelf,,10,10,10,10,10,0,,RS,,,,10,10,10,10,10,0
-,,2,2550,Water Heater Hookup,,15,15,15,15,15,0,,BM,,,,15,15,15,15,15,0
-,,2,2560,Undercoat Wheel Well,,5,5,5,5,5,5,,RS,,,,5,5,5,5,5,5
-,,2,2570,Paint at Openings (Windows - etc),,5,5,5,5,5,5,,RS,,,,5,5,5,5,5,5
-,,2,2580,VBH on End Tubes and at Wheels,,10,10,10,10,10,10,,RS,,,,10,10,10,10,10,10
-,,2,2590,install /remove scaffold,,10,10,10,10,10,10,,,,,,10,10,10,10,10,10
-,,2,2610,Azdel Inside Front Wall,,15,15,15,15,15,15,,RS,,,,15,15,15,15,15,15
-,,2,2620,Install 1st Piece of Azdel On Each Side of Sidewall,,7,7,7,7,7,7,,RS,,,,7,7,7,7,7,7
-,,2,2630,install rest of azdel,,80,90,80,90,100,100,,RS/BM,,,,80,90,80,90,100,100
-,,2,2640,Route Azdel Openings,,10,10,10,10,10,10,,,,,,10,10,10,10,10,10
-WindowsCS_Choices_Prod,1,2,2650,Window CS Middle - Route Opening,*,0,0,0,0,0.5,0.5,,,,,,0,0,0,0,0,0
-WindowsRS_Choices_Prod,1,2,2660,Window RS Middle - Route Opening,*,0,0,0,0,0.5,0.5,,,,,,0,0,0,0,0,0
-,,2,2670,Fasten Backers for Ducting and Above Cove,,15,15,15,15,15,15,,RS,,,,15,15,15,15,15,15
-,,2,2680,insulate entire exterior,,85,95,85,95,100,100,,RS,,,,85,95,85,95,100,100
-,,2,2690,Panel Interior Front Wall Bath,,10,10,10,10,10,0,,RS,,,,10,10,10,10,10,0
-,,2,2700,caulk  exterior corners of wheelwells,,5,5,5,5,5,5,,RS,,,,5,5,5,5,5,5
-,,2,2710,cut all holes for switches & recepts,,30,30,30,30,30,30,,BM,,,,30,30,30,30,30,30
-,,2,2720,add backers for switches & recepts,,15,15,15,15,15,15,,BM,,,,15,15,15,15,15,15
-,,2,2730,install recepts,,35,35,35,35,35,45,,BM,,,,35,35,35,35,35,45
-,,2,2740,install switches,,20,20,20,20,20,20,,BM,,,,20,20,20,20,20,20
-,,,,,,,,,,,,,,,,,,,,,,
-,,,,Total (Min),,1319,1427,1384,1445,1539,1475,,,,,,989,1074,1064,1094,1134,1129
-,,,,Total (Hours),,21.99,23.78,23.07,24.08,25.65,24.59,,,,,,16.48,17.9,17.73,18.23,18.9,18.82
+Choice_Name,Choice_Value,Station,Process_#,Process_Name,Option,7.0x20,7.0x24,8.5x20,8.5x24,8.5x28,8.5x28FB,People,Responsible,Actual_Person,Date_Studied,7.0x20_,7.0x24_,8.5x20_,8.5x24_,8.5x28_,8528FB_,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,2,2010,Top weld and axles,,40,40,40,40,40,40,,Tator,,,40,40,40,40,40,40,,,
+,,2,2020,Install Coupler,,15,15,15,15,15,15,,RS,,,15,15,15,15,15,15,,,
+TieDownsFloor_Choices_ProdDRing,1,2,2030,Install D-Rings,*,52,52,52,52,71.5,52,,RS,,,0,0,0,0,0,0,,,
+TieDownsFloor_Choices_ProdATrack,1,2,2040,Cut A-Track Slots,*,25,30,25,30,35,25,,RS,,,0,0,0,0,0,0,,,
+,,2,2050,cut first piece of flooring  (7' wide),*,10,10,,,,,,RS,,,0,0,0,0,0,0,,,
+,,2,2060,Level Frame,,5,5,5,5,5,5,,BM,,,5,5,5,5,5,5,,,
+,,2,2070,Grind Top Welds,,15,15,15,15,20,20,,RS,,,15,15,15,15,20,20,,,
+,,2,2080,Set Wheel wells or Wheel Well Metal,,5,5,5,5,5,5,,RS,,,5,5,5,5,5,5,,,
+,,2,2090,Install flooring ( 2 people),,120,160,160,160,160,160,,BM,,,120,160,160,160,160,160,,,
+TieDownsFloor_Choices_ProdATrack,1,2,2100,Weld in A-Track Backer,*,35,35,35,35,40,35,,LS,,,0,0,0,0,0,0,,,
+TieDownsFloor_Choices_ProdATrack,1,2,2110,Install A-Track,*,58,75,58,75,96,58,,RS,,,0,0,0,0,0,0,,,
+,,2,2120,Drill Plumbing Holes and Toilet Drains,,12,12,12,12,12,12,,RS,,,12,12,12,12,12,12,,,
+,,2,2130,Drill Holes for Gas Lines and Low Points,,10,10,10,10,10,10,,RS,,,10,10,10,10,10,10,,,
+,,2,2140,install 3 inch grommmets for holes,,10,10,10,10,10,10,,BM,,,10,10,10,10,10,10,,,
+,,2,2150,mark wall lines on floor/cover floor,,25,25,25,25,25,40,,RS,,,25,25,25,25,25,40,,,
+,,2,2160,cover floor,,20,20,20,20,20,20,,BM,,,20,20,20,20,20,20,,,
+,,2,2170,Set Walls - Rear Header - Front Walls,,30,30,30,30,30,30,,LS,,,30,30,30,30,30,30,,,
+,,2,2180,Set and Weld Roof,,40,40,40,40,45,45,,LS,,,40,40,40,40,45,45,,,
+,,2,2190,Final Weld on Sidewalls,,45,45,45,45,50,50,,LS,,,45,45,45,45,50,50,,,
+,,2,2200,final weld on front walls,,20,20,20,20,20,20,,RS,,,20,20,20,20,20,20,,,
+,,2,2210,Drill Holes for Wiring,,30,35,30,35,40,40,,RS,,,30,35,30,35,40,40,,,
+,,2,2220,Grommet All Holes Where Needed,,10,10,10,10,10,10,,RS,,,10,10,10,10,10,10,,,
+,,2,2600,Install Ground Wires,,10,10,10,10,10,10,,RS,,,10,10,10,10,10,10,,,
+,,2,2230,Rough Wire Unit (Front Bedroom: 4.5 hrs),,90,105,125,125,125,150,,BM,,,90,105,125,125,125,150,,,
+BedLift_Choices_ProdM,1,2,2240,Happijac - Middle,*,7.5,7.5,7.5,7.5,7.5,7.5,,,,,0,0,0,0,0,0,,,
+BedLift_Choices_ProdR,1,2,2250,Happijac - Rear,*,7.5,7.5,7.5,7.5,7.5,7.5,,,,,0,0,0,0,0,0,,,
+Dinette_Choices_ProdCSF,1,2,2260,Dinette CS - Front,*,1,1,1,1,1,1,,,,,0,0,0,0,0,0,,,
+Dinette_Choices_ProdCSM,1,2,2270,Dinette CS - Middle,*,1,1,1,1,1,1,,,,,0,0,0,0,0,0,,,
+Dinette_Choices_ProdCSR,1,2,2280,Dinette CS - Rear,*,1,1,1,1,1,1,,,,,0,0,0,0,0,0,,,
+Dinette_Choices_ProdRSM,1,2,2290,Dinette RS - Middle,*,1,1,1,1,1,1,,,,,0,0,0,0,0,0,,,
+Dinette_Choices_ProdRSR,1,2,2300,Dinette RS - Rear,*,1,1,1,1,1,1,,,,,0,0,0,0,0,0,,,
+AC_Choices_Prod,1,2,2320,A/C - 1st,*,8,8,8,8,8,8,,,,,0,0,0,0,0,0,,,
+AC_Choices_Prod,2,2,2330,A/C - 2nd,*,,,,8,8,8,,,,,0,0,0,0,0,0,,,
+VentCover_Garage_Choices_Prod,1,2,2340,MaxxAir - Garage,*,8,8,8,8,8,8,,,,,0,0,0,0,0,0,,,
+VentCover_Kitchen_Choices_Prod,1,2,2350,MaxxAir - Kitchen,*,3,3,3,3,3,3,,,,,0,0,0,0,0,0,,,
+VentCover_Bathroom_Choices_Prod,1,2,2360,MaxxAir - Bathroom,*,3,3,3,3,3,3,,,,,0,0,0,0,0,0,,,
+VentCover_Bedroom_Choices_Prod,1,2,2370,MaxxAir - Bedroom,*,3,3,3,3,3,3,,,,,0,0,0,0,0,0,,,
+Antenna_Choices_Prod,1,2,2380,Digital Antenna,*,3,3,3,3,3,3,,,,,0,0,0,0,0,0,,,
+Radio_Choices_Prod,1,2,2390,Stereo,*,9,9,9,9,9,9,,,,,0,0,0,0,0,0,,,
+LightsFlood_Choices_Prod,1,2,2400,Scene Lights,*,5.5,5.5,5.5,5.5,5.5,5.5,,,,,0,0,0,0,0,0,,,
+LightsLoading_Choices_Prod,1,2,2410,Loading Lights,*,3.5,3.5,3.5,3.5,3.5,3.5,,,,,0,0,0,0,0,0,,,
+Solar_Choices_Prod,1,2,2420,Solar Panel,*,3,3,3,3,3,3,,,,,0,0,0,0,0,0,,,
+Generator_Choices_ProdFuelTank,1,2,2430,Fuel Station,*,3.5,3.5,3.5,3.5,3.5,3.5,,,,,0,0,0,0,0,0,,,
+Generator_Choices_ProdGenPlate,1,2,2440,Generator,*,8,8,8,8,8,12,,,,,0,0,0,0,0,0,,,
+,,2,2450,Grind Sidewalls,,25,30,25,30,35,35,,RS,,,25,30,25,30,35,35,,,
+,,2,2460,Square Front and Rear Ends,,10,10,10,10,10,10,,LS,,,10,10,10,10,10,10,,,
+,,2,2470,Cut Out Flooring for Doorway ,,10,10,10,10,10,10,,RS,,,10,10,10,10,10,10,,,
+,,2,2480,Caulk Floor Around Outside Edge,,5,5,5,5,5,5,,RS,,,5,5,5,5,5,5,,,
+,,2,2490,Radius Blocks in Window Corners,,10,10,10,10,10,10,,RS,,,10,10,10,10,10,10,,,
+WindowsCS_Choices_Prod,1,2,2500,Window CS Middle - Radius Blocks,*,,,,,1.5,1.5,,,,,0,0,0,0,0,0,,,
+WindowsRS_Choices_Prod,1,2,2510,Window RS Middle - Radius Blocks,*,,,,,1.5,1.5,,,,,0,0,0,0,0,0,,,
+,,2,2520,Azdel Front End,,30,30,30,30,30,30,,RS,,,30,30,30,30,30,30,,,
+,,2,2530,Set Interior Front Wall and Cage,,35,35,35,35,35,25,,RS,,,35,35,35,35,35,25,,,
+,,2,2540,Water Shelf,,10,10,10,10,10,,,RS,,,10,10,10,10,10,0,,,
+,,2,2550,Water Heater Hookup,,15,15,15,15,15,,,BM,,,15,15,15,15,15,0,,,
+,,2,2560,Undercoat Wheel Well,,5,5,5,5,5,5,,RS,,,5,5,5,5,5,5,,,
+,,2,2570,Paint at Openings (Windows - etc),,5,5,5,5,5,5,,RS,,,5,5,5,5,5,5,,,
+,,2,2580,VBH on End Tubes and at Wheels,,10,10,10,10,10,10,,RS,,,10,10,10,10,10,10,,,
+,,2,2590,install /remove scaffold,,10,10,10,10,10,10,,,,,10,10,10,10,10,10,,,
+,,2,2610,Azdel Inside Front Wall,,15,15,15,15,15,15,,RS,,,15,15,15,15,15,15,,,
+,,2,2620,Install 1st Piece of Azdel On Each Side of Sidewall,,7,7,7,7,7,7,,RS,,,7,7,7,7,7,7,,,
+,,2,2630,install rest of azdel,,80,90,80,90,100,100,,RS/BM,,,80,90,80,90,100,100,,,
+,,2,2640,Route Azdel Openings,,10,10,10,10,10,10,,,,,10,10,10,10,10,10,,,
+WindowsCS_Choices_Prod,1,2,2650,Window CS Middle - Route Opening,*,,,,,0.5,0.5,,,,,0,0,0,0,0,0,,,
+WindowsRS_Choices_Prod,1,2,2660,Window RS Middle - Route Opening,*,,,,,0.5,0.5,,,,,0,0,0,0,0,0,,,
+,,2,2670,Fasten Backers for Ducting and Above Cove,,15,15,15,15,15,15,,RS,,,15,15,15,15,15,15,,,
+,,2,2680,insulate entire exterior,,85,95,85,95,100,100,,RS,,,85,95,85,95,100,100,,,
+,,2,2690,Panel Interior Front Wall Bath,,10,10,10,10,10,,,RS,,,10,10,10,10,10,0,,,
+,,2,2700,caulk  exterior corners of wheelwells,,5,5,5,5,5,5,,RS,,,5,5,5,5,5,5,,,
+,,2,2710,cut all holes for switches & recepts,,30,30,30,30,30,30,,BM,,,30,30,30,30,30,30,,,
+,,2,2720,add backers for switches & recepts,,15,15,15,15,15,15,,BM,,,15,15,15,15,15,15,,,
+,,2,2730,install recepts,,35,35,35,35,35,45,,BM,,,35,35,35,35,35,45,,,
+,,2,2740,install switches,,20,20,20,20,20,20,,BM,,,20,20,20,20,20,20,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,Total (Min),,1319,1427,1384,1445,1539,1475,,,,,989,1074,1064,1094,1134,1129,,,
+,,,,Total (Hours),,21.99,23.78,23.07,24.08,25.65,24.59,,,,,16.48,17.90,17.73,18.23,18.90,18.82,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,

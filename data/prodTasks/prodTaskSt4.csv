@@ -1,165 +1,165 @@
-Choice_Name,Choice_Value,Station,Process_#,Process_Name,Option,7.0x20,7.0x24,8.5x20,8.5x24,8.5x28,8.5x28FB,People,Responsible,Actual_Person,Date_Studied,,7.0x20_,7.0x24_,8.5x20_,8.5x24_,8.5x28_,8528FB_
-,,4,4010,Finish Water Heater,,10,10,10,10,10,10,,SR,,,,10,10,10,10,10,10
-,,4,4020,Outside Water Fill,,6,6,6,6,6,6,,SR,,,,6,6,6,6,6,6
-ShowerExterior_Choices_Prod,1,4,4030,Install Outside Shower,*,5,5,5,5,5,5,,SR,,,,0,0,0,0,0,0
-,,4,4040,LP Tray and Tanks,,7,7,7,7,7,7,,SR,JR,11/7/16,,7,7,7,7,7,7
-,,4,4050,install intellipower,,120,120,120,120,120,120,,TS,,,,120,120,120,120,120,120
-,,4,4060,install battery disconnect & divider panal,,20,20,20,20,20,20,,TS,,,,20,20,20,20,20,20
-Generator_Choices_ProdGenPlate,1,4,4070,install transfer switch,*,35,35,35,35,35,35,,TS,,,,0,0,0,0,0,0
-,,3,4080,Interior Hook Up,,120,120,120,120,120,120,,TS,,,,120,120,120,120,120,120
-Remove Option,1,4,4090,Flip Up Table,*,15,15,15,15,15,15,,NT,,,,0,0,0,0,0,0
-,,4,4100,Trim Exterior Metal for Wheel Wells (8.5' wide only),,,,15,15,15,15,,NT,,,,0,0,15,15,15,15
-,,4,4110,Install LP Lines,,30,30,30,30,30,40,,JR,,,,30,30,30,30,30,40
-,,4,4120,Main Switch Panel Hook Up      No Stereo 45 ,,45,45,45,45,45,45,,TS,,,,45,45,45,45,45,45
-Plumbing_3Season_Choices_Prod,1,4,4130,3 Season Plumbing,*,5,5,5,5,5,5,,TS,,,,0,0,0,0,0,0
-Radio_Choices_Prod,1,4,4140,Radio Hook up,*,8,8,8,8,8,8,,TS,,,,0,0,0,0,0,0
-trailerWidth70,1,4,4150,Fenders - 7 Wide,*,15,15,0,0,0,0,,NT,,,,0,0,0,0,0,0
-,,4,4160,Lower Rub Rail,,40,45,40,45,55,55,,NT,,,,40,45,40,45,55,55
-trailerWidth85,1,4,4170,Cut Fenders to Proper Length and Front Trim - 8.5 Wide,*,0,0,10,10,10,10,,NT,,,,0,0,0,0,0,0
-,,4,4180,Wire Lower Clearance Lights,,15,15,15,15,20,20,,NT,,,,15,15,15,15,20,20
-trailerWidth70,1,4,4190,Fender Lights - 7.0 Wide,,30,30,0,0,0,0,,NT,,,,30,30,0,0,0,0
-,,4,4200,Flow Through Vents,,20,20,20,20,20,20,,NT,,,,20,20,20,20,20,20
-TrimPanel_Choices_Prod,1,4,4210,Cut Stainless,*,2,2,2,2,2,2,,NT,,,,0,0,0,0,0,0
-,,4,4220,Install Motorbase,,15,15,15,15,15,15,,TS,,,,15,15,15,15,15,15
-TrimPanel_Choices_Prod,1,4,4230,Cut Stainless,*,2,2,2,2,2,2,,TS,,,,0,0,0,0,0,0
-,,4,4240,Install Outside Coax,,15,15,15,15,15,15,,TS,,,,15,15,15,15,15,15
-TrimPanel_Choices_Prod,1,4,4250,Cut Stainless,*,2,2,2,2,2,2,,TS,,,,0,0,0,0,0,0
-,,4,4260,Exterior Recept Install,,15,15,15,15,15,15,,TS,,,,15,15,15,15,15,15
-TrimPanel_Choices_Prod,1,4,4270,Cut Stainless,*,2,2,2,2,2,2,,TS,,,,0,0,0,0,0,0
-,,4,4280,Exterior 12V Outlet,,10,10,10,10,10,10,,TS,,,,10,10,10,10,10,10
-TrimPanel_Choices_Prod,1,4,4290,Cut Stainless,*,2,2,2,2,2,2,,TS,,,,0,0,0,0,0,0
-,,4,4300,Install Kitchen Overhead,,17,17,17,17,17,17,,JW,,,,17,17,17,17,17,17
-,,4,4310,Set Refer,,30,30,30,30,30,30,,SR,,,,30,30,30,30,30,30
-,,4,4320,"Tail Lights, License Plate Light Installed",,60,60,60,60,60,60,,NT,,,,60,60,60,60,60,60
-Microwave_Choices_Prod,,4,4330,Install Microwave,*,7,7,7,7,7,7,,SR,,,,0,0,0,0,0,0
-,,4,4340,Refer Hook Up,,14,14,14,14,14,14,,SR,,,,14,14,14,14,14,14
-,,4,4350,Outside Refer Vent,,5,5,5,5,5,5,,SR,,,,5,5,5,5,5,5
-,,4,4360,Outside Water Heater and Furnace Vent,,15,15,15,15,15,15,,JR,,,,15,15,15,15,15,15
-TrimPanel_Choices_Prod,1,4,4370,Cut Stainless,*,2,2,2,2,2,2,,JR,,,,0,0,0,0,0,0
-,,4,4380,Install Outside Water Heater Door,,5,5,5,5,5,5,,JR,,,,5,5,5,5,5,5
-,,4,4390,wire upper clearance lights,,35,35,35,35,35,35,,SR,,,,35,35,35,35,35,35
-LightsLoading_Choices_Prod,1,4,4400,Wire Loading Lights,*,2,2,2,2,2,2,,SR,,,,0,0,0,0,0,0
-,,4,4410,Trim Ramp Door Opening,,20,20,20,20,20,20,,SR,,,,20,20,20,20,20,20
-,,4,4420,Install Windows (All Std),,30,30,30,30,30,45,,SR,,,,30,30,30,30,30,45
-WindowsCS_Choices_Prod,1,4,4430,Install Windows - Middle CS,*,8,8,8,8,8,8,,SR,,,,0,0,0,0,0,0
-WindowsRS_Choices_Prod,1,4,4440,Install Windows - Middle RS,*,8,8,8,8,8,8,,SR,,,,0,0,0,0,0,0
-,,4,4450,Day and Night Shades,,20,20,20,20,20,25,,RW,,,,20,20,20,20,20,25
-,,4,4460,ATP Kickplate,,45,50,45,50,55,55,,RW,,,,45,50,45,50,55,55
-AC_Choices_Prod,1,4,4470,Hook Up A/C (1st),*,31,31,31,31,31,31,,TS,,,,0,0,0,0,0,0
-AC_Choices_Prod,2,4,4480,Hook Up A/C (2nd),,31,31,31,31,31,31,,TS,,,,31,31,31,31,31,31
-,,4,4490,Cove,,120,120,120,120,120,120,,RW,,,,120,120,120,120,120,120
-,,4,4500,Trim Interior,,60,60,60,60,60,60,,RW,,,,60,60,60,60,60,60
-Radio_Choices_Prod,1,4,4510,Speaker Covers,*,10,10,10,10,10,10,,RW,,,,0,0,0,0,0,0
-,,4,4520,Vents Garnish - Roof,,5,5,5,5,5,5,,SR,,,,5,5,5,5,5,5
-CabinetGarageUpperCS_Choices_ProdCSF,1,4,4530,Install  - Cabinets CS Front,*,30,30,30,30,30,30,,JW,,,,0,0,0,0,0,0
-CabinetGarageUpperCS_Choices_ProdCSM,1,4,4540,Install  - Cabinets CS Middle,*,30,30,30,30,30,30,,JW,,,,0,0,0,0,0,0
-CabinetGarageUpperCS_Choices_ProdCSR,1,4,4550,Install  - Cabinets CS Rear,*,30,30,30,30,30,30,,JW,,,,0,0,0,0,0,0
-CabinetGarageUpperRS_Choices_ProdRSM,1,4,4560,Install  - Cabinets RS Middle,*,30,30,30,30,30,30,,JW,,,,0,0,0,0,0,0
-CabinetGarageUpperRS_Choices_ProdRSR,1,4,4570,Install  - Cabinets RS Rear,*,30,30,30,30,30,30,,JW,,,,0,0,0,0,0,0
-,,4,4580,Towel Bar,,8,8,8,8,8,8,,RW,,,,8,8,8,8,8,8
-,,4,4590,Install Mirror,,5,5,5,5,5,5,,RW,,,,5,5,5,5,5,5
-,,4,4600,Shower Curtain Rod,,5,5,5,5,5,5,,RW,,,,5,5,5,5,5,5
-,,4,4610,Install Toilet,,7,7,7,7,7,7,,JR,,,,7,7,7,7,7,7
-,,4,4620,"LP Test, Water Test",,25,25,25,25,25,25,25,SR,,,,25,25,25,25,25,25
-,,4,4650,Install Entrance Door,,7,7,7,7,7,7,,NT,,,,7,7,7,7,7,7
-TrimPanel_Choices_Prod,1,4,4660,Cut Stainless,*,3,3,3,3,3,3,,NT,,,,0,0,0,0,0,0
-,,4,4670,Grab Handle Entrance Door,,5,5,5,5,5,5,,NT,,,,5,5,5,5,5,5
-,,4,4680,Trim Entrance Door,,20,20,20,20,20,20,,NT,SR,11/2/16,,20,20,20,20,20,20
-,,4,4690,Refer Panels,,5,5,5,5,5,5,,RW,,,,5,5,5,5,5,5
-,,4,4700,Awning cradle                                                             ,,5,5,5,5,5,5,,NT,,,,5,5,5,5,5,5
-,,4,4710,Awning,,30,30,30,30,30,30,,NT,,,,30,30,30,30,30,30
-,,4,4720,Front Baggage Door,,10,10,10,10,10,10,,NT,,,,10,10,10,10,10,10
-,,4,4730,Bathdoor,,10,10,10,10,10,10,,RW,,,,10,10,10,10,10,10
-,,4,4740,Trim Bathroom Door,,15,15,15,15,15,15,,RW,,,,15,15,15,15,15,15
-BedLift_Choices_ProdM,1,4,4750,Install Happijac - Middle,*,50,50,50,50,50,50,,RW,,,,0,0,0,0,0,0
-BedLift_Choices_ProdR,1,4,4760,Install Happijac - Rear,*,50,50,50,50,50,50,,RW,,,,0,0,0,0,0,0
-BedDoor_Choices_ProdCS,1,4,4770,Prep Bed Door - CS,*,33,33,33,33,33,33,,SR,,,,0,0,0,0,0,0
-BedDoor_Choices_ProdRS,1,4,4780,Prep Bed Door - RS,*,33,33,33,33,33,33,,SR,,,,0,0,0,0,0,0
-BedDoor_Choices_ProdCS,1,4,4790,Install Bed Door - CS,*,217,217,217,217,217,217,,MH,,,,0,0,0,0,0,0
-BedDoor_Choices_ProdRS,1,4,4800,Install Bed Door - RS,*,217,217,217,217,217,217,,MH,,,,0,0,0,0,0,0
-SofaFront_Choices_ProdCSF,1,4,4810,Install Sofa - CS - Front ,*,30,30,30,30,30,30,,RW,,,,0,0,0,0,0,0
-SofaMiddle_Choices_ProdCSM,1,4,4820,Install Sofa - CS - Middle,*,30,30,30,30,30,30,,RW,,,,0,0,0,0,0,0
-SofaMiddle_Choices_ProdRSM,1,4,4830,Install Sofa - CS - Rear ,*,30,30,30,30,30,30,,RW,,,,0,0,0,0,0,0
-SofaRear_Choices_ProdCSR,1,4,4840,Install Sofa - RS - Middle,*,30,30,30,30,30,30,,RW,,,,0,0,0,0,0,0
-SofaRear_Choices_ProdRSR,1,4,4850,Install Sofa - RS - Rear ,*,30,30,30,30,30,30,,RW,,,,0,0,0,0,0,0
-Dinette_Choices_ProdCSF,1,4,4860,Install Dinette CS - Front,*,45,45,45,45,45,45,,RW,,,,0,0,0,0,0,0
-Dinette_Choices_ProdCSM,1,4,4870,Install Dinette CS - Middle,*,45,45,45,45,45,45,,RW,,,,0,0,0,0,0,0
-Dinette_Choices_ProdCSR,1,4,4880,Install Dinette CS - Rear,*,45,45,45,45,45,45,,RW,,,,0,0,0,0,0,0
-Dinette_Choices_ProdRSM,1,4,4890,Install Dinette RS - Middle,*,45,45,45,45,45,45,,RW,,,,0,0,0,0,0,0
-Dinette_Choices_ProdRSR,1,4,4900,Install Dinette RS - Rear,*,45,45,45,45,45,45,,RW,,,,0,0,0,0,0,0
-VinylInsert_Choices_ProdScreen,1,4,4910,Install Vinyl Zippered Rear Opening,*,20,20,20,20,20,20,,RW,,,,0,0,0,0,0,0
-,,4,4920,Flood Test,,80,80,80,80,80,80,,SR,,,,80,80,80,80,80,80
-Package_FrontBedroom_Choices_Prod,1,4,4930,Install Front Bedroom Bed Frame,*,20,20,20,20,20,20,,SR,,,,0,0,0,0,0,0
-Generator_Choices_ProdFuelTank,1,4,4950,hook up fuel lines @ fuel  tank,*,20,20,20,20,20,20,,SR,,,,0,0,0,0,0,0
-Generator_Choices_ProdTankFuelLine,1,4,4960,hook up fuel fill station,*,30,30,30,30,30,30,,SR,,,,0,0,0,0,0,0
-,,4,4970,install & hook up LP tanks,,15,15,15,15,15,15,,SR,,,,15,15,15,15,15,15
-,,,,,,,,,,,,,,,,,,,,,,
-,,,,Total (Min),,2661,2671,2641,2651,2671,2701,,,,,,1282,1292,1267,1277,1297,1327
-,,,,Total (Hours),,44.35,44.51666667,44.01666667,44.18333333,44.51666667,45.01666667,,,,,,21.36666667,21.53333333,21.11666667,21.28333333,21.61666667,22.11666667
-AC_Choices_Prod,,,,,,,,,,,,,,,,,,,,,,
-Antenna_Choices_Prod,,,,,,,,,,,,,,,,,,,,,,
-Battery_Choices_Prod,,,,,,,,,,,,,,,,,,,,,,
-BedDoor_Choices_ProdCS,,,,,,,,,,,,,,,,,,,,,,
-BedDoor_Choices_ProdRS,,,,,,,,,,,,,,,,,,,,,,
-BedLift_Choices_ProdM,,,,,,,,,,,,,,,,,,,,,,
-BedLift_Choices_ProdR,,,,,,,,,,,,,,,,,,,,,,
-CabinetGarageUpperCS_Choices_ProdCSF,,,,,,,,,,,,,,,,,,,,,,
-CabinetGarageUpperCS_Choices_ProdCSM,,,,,,,,,,,,,,,,,,,,,,
-CabinetGarageUpperCS_Choices_ProdCSR,,,,,,,,,,,,,,,,,,,,,,
-CabinetGarageUpperRS_Choices_ProdRSM,,,,,,,,,,,,,,,,,,,,,,
-CabinetGarageUpperRS_Choices_ProdRSR,,,,,,,,,,,,,,,,,,,,,,
-CarpetBedroom_Choices_Prod,,,,,,,,,,,,,,,,,,,,,,
-CarpetGarage_Choices_Prod,,,,,,,,,,,,,,,,,,,,,,
-CarpetKitchen_Choices_Prod,,,,,,,,,,,,,,,,,,,,,,
-CertificationCanadianDOT_Choices_Prod,,,,,,,,,,,,,,,,,,,,,,
-CertificationWashingtonState_Choices_Prod,,,,,,,,,,,,,,,,,,,,,,
-Dinette_Choices_ProdCSF,,,,,,,,,,,,,,,,,,,,,,
-Dinette_Choices_ProdCSM,,,,,,,,,,,,,,,,,,,,,,
-Dinette_Choices_ProdCSR,,,,,,,,,,,,,,,,,,,,,,
-Dinette_Choices_ProdRSM,,,,,,,,,,,,,,,,,,,,,,
-Dinette_Choices_ProdRSR,,,,,,,,,,,,,,,,,,,,,,
-Frame_Lift_Choices_Prod,,,,,,,,,,,,,,,,,,,,,,
-Generator_Choices_ProdFuelTank,,,,,,,,,,,,,,,,,,,,,,
-Generator_Choices_ProdGenFuelLine,,,,,,,,,,,,,,,,,,,,,,
-Generator_Choices_ProdGenPlate,,,,,,,,,,,,,,,,,,,,,,
-Generator_Choices_ProdGenPlate,,,,,,,,,,,,,,,,,,,,,,
-Generator_Choices_ProdTankFuelLine,,,,,,,,,,,,,,,,,,,,,,
-GeneratorCover_Choices_Prod,,,,,,,,,,,,,,,,,,,,,,
-Graphics_Choices_Prod,,,,,,,,,,,,,,,,,,,,,,
-Insulation_Choices_Prod,,,,,,,,,,,,,,,,,,,,,,
-Jacks_Choices_Prod,,,,,,,,,,,,,,,,,,,,,,
-LightsFlood_Choices_Prod,,,,,,,,,,,,,,,,,,,,,,
-LightsLoading_Choices_Prod,,,,,,,,,,,,,,,,,,,,,,
-Microwave_Choices_Prod,,,,,,,,,,,,,,,,,,,,,,
-Package_BlackExterior_Choices_Prod,,,,,,,,,,,,,,,,,,,,,,
-Package_FrontBedroom_Choices_Prod,,,,,,,,,,,,,,,,,,,,,,
-Plumbing_3Season_Choices_Prod,,,,,,,,,,,,,,,,,,,,,,
-Radio_Choices_Prod,,,,,,,,,,,,,,,,,,,,,,
-ShowerExterior_Choices_Prod,,,,,,,,,,,,,,,,,,,,,,
-SofaFront_Choices_ProdCSF,,,,,,,,,,,,,,,,,,,,,,
-SofaMiddle_Choices_ProdCSM,,,,,,,,,,,,,,,,,,,,,,
-SofaMiddle_Choices_ProdRSM,,,,,,,,,,,,,,,,,,,,,,
-SofaRear_Choices_ProdCSR,,,,,,,,,,,,,,,,,,,,,,
-SofaRear_Choices_ProdRSR,,,,,,,,,,,,,,,,,,,,,,
-Solar_Choices_Prod,,,,,,,,,,,,,,,,,,,,,,
-StoragePlatform_Choices_Prod,,,,,,,,,,,,,,,,,,,,,,
-StorageRack_Choices_Prod,,,,,,,,,,,,,,,,,,,,,,
-TieDownsFloor_Choices_ProdATrack,,,,,,,,,,,,,,,,,,,,,,
-TieDownsFloor_Choices_ProdDRing,,,,,,,,,,,,,,,,,,,,,,
-TongueStorage_Choices_Prod,,,,,,,,,,,,,,,,,,,,,,
-TrimPanel_Choices_Prod,,,,,,,,,,,,,,,,,,,,,,
-TV_Choices_ProdBed,,,,,,,,,,,,,,,,,,,,,,
-TV_Choices_ProdGar,,,,,,,,,,,,,,,,,,,,,,
-VentBathroom_Choices_Prod,,,,,,,,,,,,,,,,,,,,,,
-VentBedroom_Choices_ProdMax,,,,,,,,,,,,,,,,,,,,,,
-VentBedroom_Choices_ProdStd,,,,,,,,,,,,,,,,,,,,,,
-VentCover_Bathroom_Choices_Prod,,,,,,,,,,,,,,,,,,,,,,
-VentCover_Bedroom_Choices_Prod,,,,,,,,,,,,,,,,,,,,,,
-VentCover_Garage_Choices_Prod,,,,,,,,,,,,,,,,,,,,,,
-VentCover_Kitchen_Choices_Prod,,,,,,,,,,,,,,,,,,,,,,
-VentKitchen_Choices_Prod,,,,,,,,,,,,,,,,,,,,,,
-VinylInsert_Choices_ProdPatio,,,,,,,,,,,,,,,,,,,,,,
-VinylInsert_Choices_ProdScreen,,,,,,,,,,,,,,,,,,,,,,
-Winch_Choices_Prod,,,,,,,,,,,,,,,,,,,,,,
-WindowsCS_Choices_Prod,,,,,,,,,,,,,,,,,,,,,,
-WindowsRS_Choices_Prod,,,,,,,,,,,,,,,,,,,,,,
+Choice_Name,Choice_Value,Station,Process_#,Process_Name,Option,7.0x20,7.0x24,8.5x20,8.5x24,8.5x28,8.5x28FB,People,Responsible,Actual_Person,Date_Studied,7.0x20_,7.0x24_,8.5x20_,8.5x24_,8.5x28_,8528FB_
+,,4,4010,Finish Water Heater,,10,10,10,10,10,10,,SR,,,10,10,10,10,10,10
+,,4,4020,Outside Water Fill,,6,6,6,6,6,6,,SR,,,6,6,6,6,6,6
+ShowerExternal_Choices_Prod,1,4,4030,Install Outside Shower,*,5,5,5,5,5,5,,SR,,,0,0,0,0,0,0
+,,4,4040,LP Tray and Tanks,,7,7,7,7,7,7,,SR,JR,11/7/16,7,7,7,7,7,7
+,,4,4050,install intellipower,,120,120,120,120,120,120,,TS,,,120,120,120,120,120,120
+,,4,4060,install battery disconnect & divider panal,,20,20,20,20,20,20,,TS,,,20,20,20,20,20,20
+Generator_Choices_ProdGenPlate,1,4,4070,install transfer switch,*,35,35,35,35,35,35,,TS,,,0,0,0,0,0,0
+,,3,4080,Interior Hook Up,,120,120,120,120,120,120,,TS,,,120,120,120,120,120,120
+Remove Option,1,4,4090,Flip Up Table,*,15,15,15,15,15,15,,NT,,,0,0,0,0,0,0
+trailerWidth85,1,4,4100,Trim Exterior Metal for Wheel Wells (8.5' wide only),,0,0,15,15,15,15,,NT,,,0,0,15,15,15,15
+,,4,4110,Install LP Lines,,30,30,30,30,30,40,,JR,,,30,30,30,30,30,40
+,,4,4120,Main Switch Panel Hook Up      No Stereo 45 ,,45,45,45,45,45,45,,TS,,,45,45,45,45,45,45
+Plumbing_3Season_Choices_Prod,1,4,4130,3 Season Plumbing,*,5,5,5,5,5,5,,TS,,,0,0,0,0,0,0
+Radio_Choices_Prod,1,4,4140,Radio Hook up,*,8,8,8,8,8,8,,TS,,,0,0,0,0,0,0
+trailerWidth70,1,4,4150,Fenders - 7 Wide,*,15,15,0,0,0,0,,NT,,,0,0,0,0,0,0
+,,4,4160,Lower Rub Rail,,40,45,40,45,55,55,,NT,,,40,45,40,45,55,55
+trailerWidth85,1,4,4170,Cut Fenders to Proper Length and Front Trim - 8.5 Wide,*,0,0,10,10,10,10,,NT,,,0,0,0,0,0,0
+,,4,4180,Wire Lower Clearance Lights,,15,15,15,15,20,20,,NT,,,15,15,15,15,20,20
+trailerWidth70,1,4,4190,Fender Lights - 7.0 Wide,,30,30,0,0,0,0,,NT,,,30,30,0,0,0,0
+,,4,4200,Flow Through Vents,,20,20,20,20,20,20,,NT,,,20,20,20,20,20,20
+TrimPanel_Choices_Prod,1,4,4210,Cut Stainless,*,2,2,2,2,2,2,,NT,,,0,0,0,0,0,0
+,,4,4220,Install Motorbase,,15,15,15,15,15,15,,TS,,,15,15,15,15,15,15
+TrimPanel_Choices_Prod,1,4,4230,Cut Stainless,*,2,2,2,2,2,2,,TS,,,0,0,0,0,0,0
+,,4,4240,Install Outside Coax,,15,15,15,15,15,15,,TS,,,15,15,15,15,15,15
+TrimPanel_Choices_Prod,1,4,4250,Cut Stainless,*,2,2,2,2,2,2,,TS,,,0,0,0,0,0,0
+,,4,4260,Exterior Recept Install,,15,15,15,15,15,15,,TS,,,15,15,15,15,15,15
+TrimPanel_Choices_Prod,1,4,4270,Cut Stainless,*,2,2,2,2,2,2,,TS,,,0,0,0,0,0,0
+,,4,4280,Exterior 12V Outlet,,10,10,10,10,10,10,,TS,,,10,10,10,10,10,10
+TrimPanel_Choices_Prod,1,4,4290,Cut Stainless,*,2,2,2,2,2,2,,TS,,,0,0,0,0,0,0
+,,4,4300,Install Kitchen Overhead,,17,17,17,17,17,17,,JW,,,17,17,17,17,17,17
+,,4,4310,Set Refer,,30,30,30,30,30,30,,SR,,,30,30,30,30,30,30
+,,4,4320,Tail Lights - License Plate Light Installed,,60,60,60,60,60,60,,NT,,,60,60,60,60,60,60
+Microwave_Choices_Prod,,4,4330,Install Microwave,*,7,7,7,7,7,7,,SR,,,0,0,0,0,0,0
+,,4,4340,Refer Hook Up,,14,14,14,14,14,14,,SR,,,14,14,14,14,14,14
+,,4,4350,Outside Refer Vent,,5,5,5,5,5,5,,SR,,,5,5,5,5,5,5
+,,4,4360,Outside Water Heater and Furnace Vent,,15,15,15,15,15,15,,JR,,,15,15,15,15,15,15
+TrimPanel_Choices_Prod,1,4,4370,Cut Stainless,*,2,2,2,2,2,2,,JR,,,0,0,0,0,0,0
+,,4,4380,Install Outside Water Heater Door,,5,5,5,5,5,5,,JR,,,5,5,5,5,5,5
+,,4,4390,wire upper clearance lights,,35,35,35,35,35,35,,SR,,,35,35,35,35,35,35
+LightsLoading_Choices_Prod,1,4,4400,Wire Loading Lights,*,2,2,2,2,2,2,,SR,,,0,0,0,0,0,0
+,,4,4410,Trim Ramp Door Opening,,20,20,20,20,20,20,,SR,,,20,20,20,20,20,20
+,,4,4420,Install Windows (All Std),,30,30,30,30,30,45,,SR,,,30,30,30,30,30,45
+WindowsCS_Choices_Prod,1,4,4430,Install Windows - Middle CS,*,8,8,8,8,8,8,,SR,,,0,0,0,0,0,0
+WindowsRS_Choices_Prod,1,,4440,Install Windows - Middle RS,*,8,8,8,8,8,8,,SR,,,0,0,0,0,0,0
+,,4,4450,Day and Night Shades,,20,20,20,20,20,25,,RW,,,20,20,20,20,20,25
+,,4,4460,ATP Kickplate,,45,50,45,50,55,55,,RW,,,45,50,45,50,55,55
+AC_Choices_Prod,1,4,4470,Hook Up A/C (1st),*,31,31,31,31,31,31,,TS,,,0,0,0,0,0,0
+AC_Choices_Prod,2,4,4480,Hook Up A/C (2nd),,31,31,31,31,31,31,,TS,,,31,31,31,31,31,31
+,,4,4490,Cove,,120,120,120,120,120,120,,RW,,,120,120,120,120,120,120
+,,4,4500,Trim Interior,,60,60,60,60,60,60,,RW,,,60,60,60,60,60,60
+Radio_Choices_Prod,1,4,4510,Speaker Covers,*,10,10,10,10,10,10,,RW,,,0,0,0,0,0,0
+,,4,4520,Vents Garnish - Roof,,5,5,5,5,5,5,,SR,,,5,5,5,5,5,5
+CabinetGarageUpperCS_Choices_ProdF,1,4,4530,Install  - Cabinets CS Front,*,30,30,30,30,30,30,,JW,,,0,0,0,0,0,0
+CabinetGarageUpperCS_Choices_ProdM,1,4,4540,Install  - Cabinets CS Middle,*,30,30,30,30,30,30,,JW,,,0,0,0,0,0,0
+CabinetGarageUpperCS_Choices_ProdR,1,4,4550,Install  - Cabinets CS Rear,*,30,30,30,30,30,30,,JW,,,0,0,0,0,0,0
+CabinetGarageUpperRS_Choices_ProdM,1,4,4560,Install  - Cabinets RS Middle,*,30,30,30,30,30,30,,JW,,,0,0,0,0,0,0
+CabinetGarageUpperRS_Choices_ProdR,1,4,4570,Install  - Cabinets RS Rear,*,30,30,30,30,30,30,,JW,,,0,0,0,0,0,0
+,,4,4580,Towel Bar,,8,8,8,8,8,8,,RW,,,8,8,8,8,8,8
+,,4,4590,Install Mirror,,5,5,5,5,5,5,,RW,,,5,5,5,5,5,5
+,,4,4600,Shower Curtain Rod,,5,5,5,5,5,5,,RW,,,5,5,5,5,5,5
+,,4,4610,Install Toilet,,7,7,7,7,7,7,,JR,,,7,7,7,7,7,7
+,,4,4620,LP Test - Water Test,,25,25,25,25,25,25,25,SR,,,25,25,25,25,25,25
+,,4,4650,Install Entrance Door,,7,7,7,7,7,7,,NT,,,7,7,7,7,7,7
+TrimPanel_Choices_Prod,1,4,4660,Cut Stainless,*,3,3,3,3,3,3,,NT,,,0,0,0,0,0,0
+,,4,4670,Grab Handle Entrance Door,,5,5,5,5,5,5,,NT,,,5,5,5,5,5,5
+,,4,4680,Trim Entrance Door,,20,20,20,20,20,20,,NT,SR,11/2/16,20,20,20,20,20,20
+,,4,4690,Refer Panels,,5,5,5,5,5,5,,RW,,,5,5,5,5,5,5
+,,4,4700,Awning cradle                                                             ,,5,5,5,5,5,5,,NT,,,5,5,5,5,5,5
+,,4,4710,Awning,,30,30,30,30,30,30,,NT,,,30,30,30,30,30,30
+,,4,4720,Front Baggage Door,,10,10,10,10,10,10,,NT,,,10,10,10,10,10,10
+,,4,4730,Bathdoor,,10,10,10,10,10,10,,RW,,,10,10,10,10,10,10
+,,4,4740,Trim Bathroom Door,,15,15,15,15,15,15,,RW,,,15,15,15,15,15,15
+BedLift_Choices_ProdM,1,4,4750,Install Happijac - Middle,*,50,50,50,50,50,50,,RW,,,0,0,0,0,0,0
+BedLift_Choices_ProdR,1,4,4760,Install Happijac - Rear,*,50,50,50,50,50,50,,RW,,,0,0,0,0,0,0
+BedDoor_Choices_ProdCS,1,4,4770,Prep Bed Door - CS,*,33,33,33,33,33,33,,SR,,,0,0,0,0,0,0
+BedDoor_Choices_ProdRS,1,4,4780,Prep Bed Door - RS,*,33,33,33,33,33,33,,SR,,,0,0,0,0,0,0
+BedDoor_Choices_ProdCS,1,4,4790,Install Bed Door - CS,*,217,217,217,217,217,217,,MH,,,0,0,0,0,0,0
+BedDoor_Choices_ProdRS,1,4,4800,Install Bed Door - RS,*,217,217,217,217,217,217,,MH,,,0,0,0,0,0,0
+SofaFront_Choices_ProdCSF,1,4,4810,Install Sofa - CS - Front ,*,30,30,30,30,30,30,,RW,,,0,0,0,0,0,0
+SofaMiddle_Choices_ProdCSM,1,4,4820,Install Sofa - CS - Middle,*,30,30,30,30,30,30,,RW,,,0,0,0,0,0,0
+SofaMiddle_Choices_ProdRSM,1,4,4830,Install Sofa - CS - Rear ,*,30,30,30,30,30,30,,RW,,,0,0,0,0,0,0
+SofaRear_Choices_ProdCSR,1,4,4840,Install Sofa - RS - Middle,*,30,30,30,30,30,30,,RW,,,0,0,0,0,0,0
+SofaRear_Choices_ProdRSR,1,4,4850,Install Sofa - RS - Rear ,*,30,30,30,30,30,30,,RW,,,0,0,0,0,0,0
+Dinette_Choices_ProdCSF,1,4,4860,Install Dinette CS - Front,*,45,45,45,45,45,45,,RW,,,0,0,0,0,0,0
+Dinette_Choices_ProdCSM,1,4,4870,Install Dinette CS - Middle,*,45,45,45,45,45,45,,RW,,,0,0,0,0,0,0
+Dinette_Choices_ProdCSR,1,4,4880,Install Dinette CS - Rear,*,45,45,45,45,45,45,,RW,,,0,0,0,0,0,0
+Dinette_Choices_ProdRSM,1,4,4890,Install Dinette RS - Middle,*,45,45,45,45,45,45,,RW,,,0,0,0,0,0,0
+Dinette_Choices_ProdRSR,1,4,4900,Install Dinette RS - Rear,*,45,45,45,45,45,45,,RW,,,0,0,0,0,0,0
+VinylInsert_Choices_ProdScreen,1,4,4910,Install Vinyl Zippered Rear Opening,*,20,20,20,20,20,20,,RW,,,0,0,0,0,0,0
+,,4,4920,Flood Test,,80,80,80,80,80,80,,SR,,,80,80,80,80,80,80
+Package_FrontBedroom_Choices_Prod,1,4,4930,Install Front Bedroom Bed Frame,*,20,20,20,20,20,20,,SR,,,0,0,0,0,0,0
+Generator_Choices_ProdFuelTank,1,4,4950,hook up fuel lines @ fuel  tank,*,20,20,20,20,20,20,,SR,,,0,0,0,0,0,0
+Generator_Choices_ProdTankFuelLine,1,4,4960,hook up fuel fill station,*,30,30,30,30,30,30,,SR,,,0,0,0,0,0,0
+,,4,4970,install & hook up LP tanks,,15,15,15,15,15,15,,SR,,,15,15,15,15,15,15
+,,,,,,,,,,,,,,,,,,,,,
+,,,,Total (Min),,2661,2671,2641,2651,2671,2701,,,,,1282,1292,1267,1277,1297,1327
+,,,,Total (Hours),,44.35,44.51666667,44.01666667,44.18333333,44.51666667,45.01666667,,,,,21.36666667,21.53333333,21.11666667,21.28333333,21.61666667,22.11666667
+AC_Choices_Prod,,,,,,,,,,,,,,,,,,,,,
+Antenna_Choices_Prod,,,,,,,,,,,,,,,,,,,,,
+Battery_Choices_Prod,,,,,,,,,,,,,,,,,,,,,
+BedDoor_Choices_ProdCS,,,,,,,,,,,,,,,,,,,,,
+BedDoor_Choices_ProdRS,,,,,,,,,,,,,,,,,,,,,
+BedLift_Choices_ProdM,,,,,,,,,,,,,,,,,,,,,
+BedLift_Choices_ProdR,,,,,,,,,,,,,,,,,,,,,
+CabinetGarageUpperCS_Choices_ProdF,,,,,,,,,,,,,,,,,,,,,
+CabinetGarageUpperCS_Choices_ProdM,,,,,,,,,,,,,,,,,,,,,
+CabinetGarageUpperCS_Choices_ProdR,,,,,,,,,,,,,,,,,,,,,
+CabinetGarageUpperRS_Choices_ProdM,,,,,,,,,,,,,,,,,,,,,
+CabinetGarageUpperRS_Choices_ProdR,,,,,,,,,,,,,,,,,,,,,
+CarpetBedroom_Choices_Prod,,,,,,,,,,,,,,,,,,,,,
+CarpetGarage_Choices_Prod,,,,,,,,,,,,,,,,,,,,,
+CarpetKitchen_Choices_Prod,,,,,,,,,,,,,,,,,,,,,
+CertificationCanadianDOT_Choices_Prod,,,,,,,,,,,,,,,,,,,,,
+CertificationWashingtonState_Choices_Prod,,,,,,,,,,,,,,,,,,,,,
+Dinette_Choices_ProdCSF,,,,,,,,,,,,,,,,,,,,,
+Dinette_Choices_ProdCSM,,,,,,,,,,,,,,,,,,,,,
+Dinette_Choices_ProdCSR,,,,,,,,,,,,,,,,,,,,,
+Dinette_Choices_ProdRSM,,,,,,,,,,,,,,,,,,,,,
+Dinette_Choices_ProdRSR,,,,,,,,,,,,,,,,,,,,,
+Frame_Lift_Choices_Prod,,,,,,,,,,,,,,,,,,,,,
+Generator_Choices_ProdFuelTank,,,,,,,,,,,,,,,,,,,,,
+Generator_Choices_ProdGenFuelLine,,,,,,,,,,,,,,,,,,,,,
+Generator_Choices_ProdGenPlate,,,,,,,,,,,,,,,,,,,,,
+Generator_Choices_ProdGenPlate,,,,,,,,,,,,,,,,,,,,,
+Generator_Choices_ProdTankFuelLine,,,,,,,,,,,,,,,,,,,,,
+GeneratorCover_Choices_Prod,,,,,,,,,,,,,,,,,,,,,
+Graphics_Choices_Prod,,,,,,,,,,,,,,,,,,,,,
+Insulation_Choices_Prod,,,,,,,,,,,,,,,,,,,,,
+Jacks_Choices_Prod,,,,,,,,,,,,,,,,,,,,,
+LightsFlood_Choices_Prod,,,,,,,,,,,,,,,,,,,,,
+LightsLoading_Choices_Prod,,,,,,,,,,,,,,,,,,,,,
+Microwave_Choices_Prod,,,,,,,,,,,,,,,,,,,,,
+Package_BlackExterior_Choices_Prod,,,,,,,,,,,,,,,,,,,,,
+Package_FrontBedroom_Choices_Prod,,,,,,,,,,,,,,,,,,,,,
+Plumbing_3Season_Choices_Prod,,,,,,,,,,,,,,,,,,,,,
+Radio_Choices_Prod,,,,,,,,,,,,,,,,,,,,,
+ShowerExternal_Choices_Prod,,,,,,,,,,,,,,,,,,,,,
+SofaFront_Choices_ProdCSF,,,,,,,,,,,,,,,,,,,,,
+SofaMiddle_Choices_ProdCSM,,,,,,,,,,,,,,,,,,,,,
+SofaMiddle_Choices_ProdRSM,,,,,,,,,,,,,,,,,,,,,
+SofaRear_Choices_ProdCSR,,,,,,,,,,,,,,,,,,,,,
+SofaRear_Choices_ProdRSR,,,,,,,,,,,,,,,,,,,,,
+Solar_Choices_Prod,,,,,,,,,,,,,,,,,,,,,
+StoragePlatform_Choices_Prod,,,,,,,,,,,,,,,,,,,,,
+StorageRack_Choices_Prod,,,,,,,,,,,,,,,,,,,,,
+TieDownsFloor_Choices_ProdATrack,,,,,,,,,,,,,,,,,,,,,
+TieDownsFloor_Choices_ProdDRing,,,,,,,,,,,,,,,,,,,,,
+TongueStorage_Choices_Prod,,,,,,,,,,,,,,,,,,,,,
+TrimPanel_Choices_Prod,,,,,,,,,,,,,,,,,,,,,
+TV_Choices_ProdBed,,,,,,,,,,,,,,,,,,,,,
+TV_Choices_ProdGar,,,,,,,,,,,,,,,,,,,,,
+VentBathroom_Choices_Prod,,,,,,,,,,,,,,,,,,,,,
+VentBedroom_Choices_ProdMax,,,,,,,,,,,,,,,,,,,,,
+VentBedroom_Choices_ProdStd,,,,,,,,,,,,,,,,,,,,,
+VentCover_Bathroom_Choices_Prod,,,,,,,,,,,,,,,,,,,,,
+VentCover_Bedroom_Choices_Prod,,,,,,,,,,,,,,,,,,,,,
+VentCover_Garage_Choices_Prod,,,,,,,,,,,,,,,,,,,,,
+VentCover_Kitchen_Choices_Prod,,,,,,,,,,,,,,,,,,,,,
+VentKitchen_Choices_Prod,,,,,,,,,,,,,,,,,,,,,
+VinylInsert_Choices_ProdPatio,,,,,,,,,,,,,,,,,,,,,
+VinylInsert_Choices_ProdScreen,,,,,,,,,,,,,,,,,,,,,
+Winch_Choices_Prod,,,,,,,,,,,,,,,,,,,,,
+WindowsCS_Choices_Prod,,,,,,,,,,,,,,,,,,,,,
+WindowsRS_Choices_Prod,,,,,,,,,,,,,,,,,,,,,

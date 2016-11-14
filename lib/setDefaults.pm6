@@ -7,11 +7,11 @@ our $prodTackDir is export = './data/prodTasks';
 our $prodScheduleDir is export = './data/prodSchedule';
 our $prodScheduleData is export = '1611xx';
 
-our $vinSt1 = '206202';
-our $vinSt2 = '205167';
-our $vinSt3 = '206129';
-our $vinSt4 = '206112';
-our $vinSt5 = '206173';
+our $vinSt1 = '206493';
+our $vinSt2 = '206511';
+our $vinSt3 = '206112';
+our $vinSt4 = '206173';
+our $vinSt5 = '206129';
 
 our $prodTaskSt1 = "prodTaskSt1.csv";
 our $prodTaskSt2 = "prodTaskSt2.csv";

@@ -1,71 +1,71 @@
-Choice_Name,Choice_Value,Station,Process_#,Process_Name,Option,7.0x20,7.0x24,8.5x20,8.5x24,8.5x28,8.5x28FB,People,Responsible,Actual_Person,Date_Studied,,7.0x20_,7.0x24_,8.5x20_,8.5x24_,8.5x28_,8528FB_
-Package_FrontBedroom_Choices_Prod,10,1,1010,Weld interior walls -Std Unit,*,125,125,270,270,270,0,1,,,,,0,0,0,0,0,0
-Package_FrontBedroom_Choices_Prod,10,1,1020,Weld interior walls -Front Bedroom,*,0,0,0,0,0,0,1,,,,,0,0,0,0,0,0
-,,1,1030,Weld front radius wall x 2,,20,20,20,20,20,20,1,,,,,20,20,20,20,20,20
-,,1,1040,Roof Truss Setup Time,,15,15,15,15,15,15,1,,,,,15,15,15,15,15,15
-,,1,1050,Weld roof trusses (2 min ea),,30,34,30,34,38,50,1,,,,,30,34,30,34,38,50
-,,1,1060,Weld roof parts together,,60,60,60,60,60,60,1,,,,,60,60,60,60,60,60
-,,1,1070,Table prep for 1 pc roof ,,8,8,8,8,8,8,1,,,,,8,8,8,8,8,8
-,,1,1080,Roof lay out,,15,17,15,17,19,19,1,,,,,15,17,15,17,19,19
-,,1,1090,Tack roof ,,8,8,8,8,8,8,2,,,,,8,8,8,8,8,8
-,,1,1100,Weld 1 pc roof ,,20,24,20,24,28,30,2,,,,,20,24,20,24,28,30
-AC_Choices_Prod,1,1,1110,A/C Ducting - Single,*,10,10,10,10,10,10,2,,,,,0,0,0,0,0,0
-AC_Choices_Prod,2,1,1120,A/C Ducting - Double,*,0,0,0,0,20,20,2,,,,,0,0,0,0,0,0
-,,1,1130,Upper front wall,,30,30,30,30,30,30,1,,,,,30,30,30,30,30,30
-,,1,1140,Lower front wall,,15,15,15,15,15,15,1,,,,,15,15,15,15,15,15
-,,1,1150,Prep Table,,10,10,10,10,10,10,1,,,,,10,10,10,10,10,10
-,,1,1160,Rear wall header ,,20,20,20,20,20,20,1,,,,,20,20,20,20,20,20
-,,1,1170,Lay Out C/S Sidewall,,65,70,65,70,80,70,2,,,,,65,70,65,70,80,70
-BedDoor_Choices_ProdCS,1,1,1180,CS Bed Door,* ,5,5,5,5,5,5,1,,,,,5,5,5,5,5,5
-BedLift_Choices_ProdM,1,1,1190,Happijac - Middle,*,5,5,5,5,5,5,1,,,,,0,0,0,0,0,0
-BedLift_Choices_ProdR,1,1,1200,Happijac - Rear,*,5,5,5,5,5,5,1,,,,,0,0,0,0,0,0
-SofaFront_Choices_ProdCSF,1,1,1210,Sofa - CS - Front ,*,3,3,3,3,3,3,1,,,,,0,0,0,0,0,0
-SofaMiddle_Choices_ProdCSM,1,1,1220,Sofa - CS - Middle,*,3,3,3,3,3,3,1,,,,,0,0,0,0,0,0
-SofaRear_Choices_ProdCSR,1,1,1230,Sofa - CS - Rear ,*,3,3,3,3,3,3,1,,,,,0,0,0,0,0,0
-Dinette_Choices_ProdCSF,1,1,1240,Dinette CS - Front,*,3,3,3,3,3,3,1,,,,,0,0,0,0,0,0
-Dinette_Choices_ProdCSM,1,1,1250,Dinette CS - Middle,*,3,3,3,3,3,3,1,,,,,0,0,0,0,0,0
-Dinette_Choices_ProdCSR,1,1,1260,Dinette CS - Rear,*,3,3,3,3,3,3,1,,,,,0,0,0,0,0,0
-WindowsCS_Choices_Prod,1,1,1270,Window CS - Middle,*,5,5,5,5,5,5,1,,,,,0,0,0,0,0,0
-,,1,1280,tack C/S sidewall ,,50,50,50,52,30,50,2,,,,,50,50,50,52,30,50
-,,1,1290,weld C/S sidewall,,60,60,60,42,60,60,2,,,,,60,60,60,42,60,60
-WindowsCS_Choices_Prod,1,1,1300,Window CS - Middle,*,10,10,10,10,10,10,1,,,,,0,0,0,0,0,0
-,,1,1310,Grind; tape; flip; weld; grind C/S sidewall,,24,28,24,28,36,36,2,,,,,24,28,24,28,36,36
-,,1,1320,Lay Out R/S Sidewall,,90,90,90,90,82,90,2,,,,,90,90,90,90,82,90
-BedDoor_Choices_ProdRS,1,1,1330,RS Bed Door,*,5,5,5,5,55,5,1,,,,,0,0,0,0,0,0
-BedLift_Choices_ProdM,1,1,1340,Happijac - Middle,*,5,5,5,5,5,5,1,,,,,0,0,0,0,0,0
-BedLift_Choices_ProdR,1,1,1350,Happijac - Rear,*,5,5,5,5,5,5,1,,,,,0,0,0,0,0,0
-SofaMiddle_Choices_ProdRSM,1,1,1360,Sofa - RS - Middle,*,3,3,3,3,3,3,1,,,,,0,0,0,0,0,0
-SofaRear_Choices_ProdRSR,1,1,1370,Sofa - RS - Rear ,*,3,3,3,3,3,3,1,,,,,0,0,0,0,0,0
-Dinette_Choices_ProdRSM,1,1,1380,Dinette RS - Middle,*,3,3,3,3,3,3,1,,,,,0,0,0,0,0,0
-Dinette_Choices_ProdRSR,1,1,1390,Dinette RS - Rear,*,3,3,3,3,3,3,1,,,,,0,0,0,0,0,0
-WindowsRS_Choices_Prod,1,1,1400,Window RS - Middle,*,5,5,5,5,5,5,1,,,,,0,0,0,0,0,0
-,,1,1410,tack R/S sidewall ,,20,20,20,20,26,20,2,,,,,20,20,20,20,26,20
-,,1,1420,weld R/S sidewall,,60,60,60,60,40,60,2,,,,,60,60,60,60,40,60
-WindowsRS_Choices_Prod,1,1,1430,Window RS - Middle,*,10,10,10,10,10,10,1,,,,,0,0,0,0,0,0
-,,1,1440,Grind; tape; flip; weld; grind R/S sidewall,,24,28,24,28,36,35,2,,,,,24,28,24,28,36,35
-,,1,1450,prep table,,15,15,15,15,15,15,2,,,,,15,15,15,15,15,15
-,,1,1460,Lay Out Frame,,65,65,65,105,90,75,2,,,,,65,65,65,105,90,75
-TieDownsFloor_Choices_ProdATrack,1,1,1470,Airline Track,*,5,5,5,5,5,5,1,,,,,0,0,0,0,0,0
-,,1,1480,Tack Frame,,60,65,60,65,75,80,2,,,,,60,65,60,65,75,80
-,,1,1490,Weld frame,,80,90,80,90,120,120,2,,,,,80,90,80,90,120,120
-Frame_Lift_Choices_Prod,1,1,1500,4in Addition Ht Sub Frame,*,10,10,10,10,10,10,1,,,,,0,0,0,0,0,0
-Generator_Choices_ProdGenPlate,0,1,1510,Tongue Tray - STD,*,7,7,7,7,7,7,1,,,,,0,0,0,0,0,0
-Generator_Choices_ProdGenPlate,1,1,1520,Tongue Tray - Generator,*,7,7,7,7,7,7,1,,,,,0,0,0,0,0,0
-,,1,1530,Drill Weep Holes,,10,10,10,10,10,10,1,,,,,10,10,10,10,10,10
-,,1,1540,Fresh tank,,25,25,25,25,25,25,1,,,,,25,25,25,25,25,25
-,,1,1550,Waste tanks ,,15,15,15,15,15,15,1,,,,,15,15,15,15,15,15
-Generator_Choices_ProdFuelTank,1,1,1560,Fuel Tank,*,25,25,25,25,25,25,1,,,,,0,0,0,0,0,0
-,,1,1570,Tank wiring and plumbing hook up,,70,70,70,70,70,70,1,,,,,70,70,70,70,70,70
-Plumbing_3Season_Choices_Prod,1,1,1580,3 Season Plumbing,*,20,20,20,20,20,20,1,,,,,0,0,0,0,0,0
-,,1,1590,Set Axles ,,20,20,20,20,20,20,1,,,,,20,20,20,20,20,20
-,,1,1600,Brake wires,,20,20,20,20,20,20,1,,,,,20,20,20,20,20,20
-,,1,1610,Stamp VIN on Frame,,3,3,3,3,3,3,1,,,,,3,3,3,3,3,3
-Generator_Choices_ProdGenFuelLine,1,1,1620,Run fuel lines & carb canister for Gen,*,0,0,30,30,30,30,1,,,,,0,0,0,0,0,0
-Generator_Choices_ProdTankFuelLine,1,1,1630,Run Fuel Line for Filling Station,*,0,0,10,10,10,10,1,,,,,0,0,0,0,0,0
-,,1,1640,Install wheels,,15,15,15,15,15,15,1,,,,,15,15,15,15,15,15
-,,1,1650,Install Jacks; Sewer Hose; Spare Tire Rack; sewage hose holder,,25,25,25,25,25,25,1,,,,,25,25,25,25,25,25
-,,1,1660,Fasten Water Line,,35,35,35,35,35,35,1,,,,,35,35,35,35,35,35
-,,1,1670,Fresh Water Fill and Vent Hoses,,5,5,5,5,5,5,1,,,,,5,5,5,5,5,5
-,,,,,,,,,,,,,,,,,,,,,,
-,,,,Total (Min),,1281,1319,1321,1383,1488,1473,,,,,,1112,1150,1112,1174,1209,1244
-,,,,Total (Hours),,21.4,22,22,23.1,24.8,24.6,,,,,,18.5,19.2,18.5,19.6,20.2,20.7
+Choice_Name,Choice_Value,Station,Process_#,Process_Name,Option,7.0x20,7.0x24,8.5x20,8.5x24,8.5x28,8.5x28FB,People,Responsible,Actual_Person,Date_Studied,7.0x20_,7.0x24_,8.5x20_,8.5x24_,8.5x28_,8528FB_
+Package_FrontBedroom_Choices_Prod,10,1,1010,Weld interior walls -Std Unit,*,125,125,270,270,270,,1,,,,0,0,0,0,0,0
+Package_FrontBedroom_Choices_Prod,10,1,1020,Weld interior walls -Front Bedroom,*,,,,,,,1,,,,0,0,0,0,0,0
+,,1,1030,Weld front radius wall x 2,,20,20,20,20,20,20,1,Heath,,,20,20,20,20,20,20
+,,1,1040,Roof Truss Setup Time,,15,15,15,15,15,15,1,,,,15,15,15,15,15,15
+,,1,1050,Weld roof trusses (2 min ea),,30,34,30,34,38,50,1,,,,30,34,30,34,38,50
+,,1,1060,Weld roof parts together,,60,60,60,60,60,60,1,,,,60,60,60,60,60,60
+,,1,1070,Table prep for 1 pc roof ,,8,8,8,8,8,8,1,Heath,,,8,8,8,8,8,8
+,,1,1080,Roof lay out,,15,17,15,17,19,19,1,Heath,,,15,17,15,17,19,19
+,,1,1090,Tack roof ,,8,8,8,8,8,8,2,Heath;Leon,,,8,8,8,8,8,8
+,,1,1100,Weld 1 pc roof ,,20,24,20,24,28,30,2,Heath;Leon,,,20,24,20,24,28,30
+AC_Choices_Prod,1,1,1110,A/C Ducting - Single,*,10,10,10,10,10,10,2,Heath;Leon,,,0,0,0,0,0,0
+AC_Choices_Prod,2,1,1120,A/C Ducting - Double,*,,,,,20,20,2,Heath;Leon,,,0,0,0,0,0,0
+,,1,1130,Upper front wall,,30,30,30,30,30,30,1,,,,30,30,30,30,30,30
+,,1,1140,Lower front wall,,15,15,15,15,15,15,1,,,,15,15,15,15,15,15
+,,1,1150,Prep Table,,10,10,10,10,10,10,1,,,,10,10,10,10,10,10
+,,1,1160,Rear wall header ,,20,20,20,20,20,20,1,,,,20,20,20,20,20,20
+,,1,1170,Lay Out C/S Sidewall,,65,70,65,70,80,70,2,Heath;Leon,,,65,70,65,70,80,70
+BedDoor_Choices_ProdCS,1,1,1180,CS Bed Door,* ,5,5,5,5,5,5,1,,,,5,5,5,5,5,5
+BedLift_Choices_ProdM,1,1,1190,Happijac - Middle,*,5,5,5,5,5,5,1,,,,0,0,0,0,0,0
+BedLift_Choices_ProdR,1,1,1200,Happijac - Rear,*,5,5,5,5,5,5,1,,,,0,0,0,0,0,0
+SofaFront_Choices_ProdCSF,1,1,1210,Sofa - CS - Front ,*,3,3,3,3,3,3,1,,,,0,0,0,0,0,0
+SofaMiddle_Choices_ProdCSM,1,1,1220,Sofa - CS - Middle,*,3,3,3,3,3,3,1,,,,0,0,0,0,0,0
+SofaRear_Choices_ProdCSR,1,1,1230,Sofa - CS - Rear ,*,3,3,3,3,3,3,1,,,,0,0,0,0,0,0
+Dinette_Choices_ProdCSF,1,1,1240,Dinette CS - Front,*,3,3,3,3,3,3,1,,,,0,0,0,0,0,0
+Dinette_Choices_ProdCSM,1,1,1250,Dinette CS - Middle,*,3,3,3,3,3,3,1,,,,0,0,0,0,0,0
+Dinette_Choices_ProdCSR,1,1,1260,Dinette CS - Rear,*,3,3,3,3,3,3,1,,,,0,0,0,0,0,0
+WindowsCS_Choices_Prod,1,1,1270,Window CS - Middle,*,5,5,5,5,5,5,1,,,,0,0,0,0,0,0
+,,1,1280,tack C/S sidewall ,,50,50,50,52,30,50,2,Heath;Leon,,,50,50,50,52,30,50
+,,1,1290,weld C/S sidewall,,60,60,60,42,60,60,2,Heath;Leon,,,60,60,60,42,60,60
+WindowsCS_Choices_Prod,1,1,1300,Window CS - Middle,*,10,10,10,10,10,10,1,,,,0,0,0,0,0,0
+,,1,1310,Grind; tape; flip; weld; grind C/S sidewall,,24,28,24,28,36,36,2,Heath;Leon,,,24,28,24,28,36,36
+,,1,1320,Lay Out R/S Sidewall,,90,90,90,90,82,90,2,Heath;Leon,,,90,90,90,90,82,90
+BedDoor_Choices_ProdRS,1,1,1330,RS Bed Door,*,5,5,5,5,55,5,1,,,,0,0,0,0,0,0
+BedLift_Choices_ProdM,1,1,1340,Happijac - Middle,*,5,5,5,5,5,5,1,,,,0,0,0,0,0,0
+BedLift_Choices_ProdR,1,1,1350,Happijac - Rear,*,5,5,5,5,5,5,1,,,,0,0,0,0,0,0
+SofaMiddle_Choices_ProdRSM,1,1,1360,Sofa - RS - Middle,*,3,3,3,3,3,3,1,,,,0,0,0,0,0,0
+SofaRear_Choices_ProdRSR,1,1,1370,Sofa - RS - Rear ,*,3,3,3,3,3,3,1,,,,0,0,0,0,0,0
+Dinette_Choices_ProdRSM,1,1,1380,Dinette RS - Middle,*,3,3,3,3,3,3,1,,,,0,0,0,0,0,0
+Dinette_Choices_ProdRSR,1,1,1390,Dinette RS - Rear,*,3,3,3,3,3,3,1,,,,0,0,0,0,0,0
+WindowsRS_Choices_Prod,1,1,1400,Window RS - Middle,*,5,5,5,5,5,5,1,,,,0,0,0,0,0,0
+,,1,1410,tack R/S sidewall ,,20,20,20,20,26,20,2,Heath;Leon,,,20,20,20,20,26,20
+,,1,1420,weld R/S sidewall,,60,60,60,60,40,60,2,Heath;Leon,,,60,60,60,60,40,60
+WindowsRS_Choices_Prod,1,1,1430,Window RS - Middle,*,10,10,10,10,10,10,1,,,,0,0,0,0,0,0
+,,1,1440,Grind; tape; flip; weld; grind R/S sidewall,,24,28,24,28,36,35,2,Heath;Leon,,,24,28,24,28,36,35
+,,1,1450,prep table,,15,15,15,15,15,15,2,Heath;Leon,,,15,15,15,15,15,15
+,,1,1460,Lay Out Frame,,65,65,65,105,90,75,2,Heath;Leon,,,65,65,65,105,90,75
+TieDownsFloor_Choices_ProdATrack,1,1,1470,Airline Track,*,5,5,5,5,5,5,1,,,,0,0,0,0,0,0
+,,1,1480,Tack Frame,,60,65,60,65,75,80,2,Heath;Leon,,,60,65,60,65,75,80
+,,1,1490,Weld frame,,80,90,80,90,120,120,2,Heath;Leon,,,80,90,80,90,120,120
+Frame_Lift_Choices_Prod,1,1,1500,4in Addition Ht Sub Frame,*,10,10,10,10,10,10,1,,,,0,0,0,0,0,0
+Generator_Choices_ProdGenPlate,0,1,1510,Tongue Tray - STD,*,7,7,7,7,7,7,1,,,,0,0,0,0,0,0
+Generator_Choices_ProdGenPlate,1,1,1520,Tongue Tray - Generator,*,7,7,7,7,7,7,1,,,,0,0,0,0,0,0
+,,1,1530,Drill Weep Holes,,10,10,10,10,10,10,1,,,,10,10,10,10,10,10
+,,1,1540,Fresh tank,,25,25,25,25,25,25,1,,,,25,25,25,25,25,25
+,,1,1550,Waste tanks ,,15,15,15,15,15,15,1,,,,15,15,15,15,15,15
+Generator_Choices_ProdFuelTank,1,1,1560,Fuel Tank,*,25,25,25,25,25,25,1,,,,0,0,0,0,0,0
+,,1,1570,Tank wiring and plumbing hook up,,70,70,70,70,70,70,1,,,,70,70,70,70,70,70
+Plumbing_3Season_Choices_Prod,1,1,1580,3 Season Plumbing,*,20,20,20,20,20,20,1,,,,0,0,0,0,0,0
+,,1,1590,Set Axles ,,20,20,20,20,20,20,1,,,,20,20,20,20,20,20
+,,1,1600,Brake wires,,20,20,20,20,20,20,1,,,,20,20,20,20,20,20
+,,1,1610,Stamp VIN on Frame,,3,3,3,3,3,3,1,,,,3,3,3,3,3,3
+Generator_Choices_ProdGenFuelLine,1,1,1620,Run fuel lines & carb canister for Gen,*,0,0,30,30,30,30,1,,,,0,0,0,0,0,0
+Generator_Choices_ProdTankFuelLine,1,1,1630,Run Fuel Line for Filling Station,*,0,0,10,10,10,10,1,,,,0,0,0,0,0,0
+,,1,1640,Install wheels,,15,15,15,15,15,15,1,,,,15,15,15,15,15,15
+,,1,1650,Install Jacks; Sewer Hose; Spare Tire Rack; sewage hose holder,,25,25,25,25,25,25,1,,,,25,25,25,25,25,25
+,,1,1660,Fasten Water Line,,35,35,35,35,35,35,1,,,,35,35,35,35,35,35
+,,1,1670,Fresh Water Fill and Vent Hoses,,5,5,5,5,5,5,1,,,,5,5,5,5,5,5
+,,,,,,,,,,,,,,,,,,,,,
+,,,,Total (Min),,1281,1319,1321,1383,1488,1473,,,,,1112,1150,1112,1174,1209,1244
+,,,,Total (Hours),,21.4,22.0,22.0,23.1,24.8,24.6,,,,,18.5,19.2,18.5,19.6,20.2,20.7

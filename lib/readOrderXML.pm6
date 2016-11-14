@@ -33,8 +33,16 @@ sub readXMLFile (@xmlFileList) is export  {
   }
   my @trailerWidth = %Order{"WidthSpec"}.split('x');
 
-  if @trailerWidth[0] ~~ '8.5' { %Order.push: ("trailerWidth85" => '1'); }
-  else                         { %Order.push: ("trailerWidth70" => '1'); }
+  if @trailerWidth[0] ~~ '8.5' {
+    say '8 wide';
+    %Order.push: ("trailerWidth85" => '1');
+    %Order.push: ("trailerWidth70" => '0');
+  }
+  else {
+    say '7 wide';
+    %Order.push: ("trailerWidth85" => '0');
+    %Order.push: ("trailerWidth70" => '1');
+  }
 
   my $trailerSize = %Order{"WidthSpec"};
   if %Order{"Package_FrontBedroom_Choices_Prod"} != 0 {

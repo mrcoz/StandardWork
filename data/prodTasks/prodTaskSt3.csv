@@ -1,177 +1,178 @@
-Choice_Name,Choice_Value,Station,Process_#,Process_Name,Option,7.0x20,7.0x24,8.5x20,8.5x24,8.5x28,8.5x28FB,People,Responsible,Actual_Person,Date_Studied,,7.0x20_,7.0x24_,8.5x20_,8.5x24_,8.5x28_,8528FB_
-,,3,3010,install bathroom upper cab. & countertop,,37,37,37,37,37,37,,J.R.,,,,37,37,37,37,37,37
-,,3,3020,install bath backsplash,,8,8,8,8,8,8,,J.R.,,,,8,8,8,8,8,8
-,,3,3030,set linen in bathroom,,48,48,48,48,48,48,,J.R.,,,,48,48,48,48,48,48
-,,3,3040,set kitchen broom closet,,50,50,50,50,50,50,,J.R.,,,,50,50,50,50,50,50
-,,3,3050,install bargman cord & junction box,,65,65,65,65,65,65,,TS,,,,65,65,65,65,65,65
-,,3,3060,wire electric jack,,10,10,10,10,10,10,,TS,,,,10,10,10,10,10,10
-Battery_Choices_Qty_Prod,1,3,3070,Install Battery,*,20,20,20,20,20,20,,TS,,,,0,0,0,0,0,0
-Battery_Choices_Qty_Prod,2,3,3080,Install 2 Batteries,*,40,40,40,40,40,40,,TS,,,,0,0,0,0,0,0
-Solar_Choices_Prod,1,3,3090,install solar panal controller,*,8,8,8,8,8,8,,TS,,,,0,0,0,0,0,0
-,,3,3100,Loom Wires Where Needed,,27,27,27,27,27,27,,TS,,,,27,27,27,27,27,27
-,,3,3110,Low point drains & water lines.     (std. unit),,26,26,26,26,26,26,,JR,,,,26,26,26,26,26,26
-,,3,3120,Install Shower,,8,8,8,8,8,8,,JR,,,,8,8,8,8,8,8
-,,3,3130,Shower Faucet,,2,2,2,2,2,2,,JR,,,,2,2,2,2,2,2
-,,3,3140,Set Bath Wall and Drill Holes for Plumbing and Wiring,,20,20,20,20,20,20,,JR,,,,20,20,20,20,20,20
-,,3,3150,Plumb Drain Vents,,10,10,10,10,10,10,,JR,,,,10,10,10,10,10,10
-,,3,3160,Panel Interior Bathroom,,10,10,10,10,10,10,,JR,,,,10,10,10,10,10,10
-,,3,3170,Panel Outside of Bath Wall,,9,9,9,9,9,9,,JR,,,,9,9,9,9,9,9
-,,3,3180,Install remainder of ceiling panals,,30,30,30,30,30,30,,JR,,,,30,30,30,30,30,30
-,,3,3190,Panel All Interior Walls,,120,120,120,120,120,,,JR,JR,11/9/16,,120,120,120,120,120,0
-,,3,3210,Install and Hook Up Front Plumbing Kit,,13,13,13,13,13,13,,JR,,,,13,13,13,13,13,13
-,,3,3220,Mount pump & hook up electric,,5,5,5,5,5,5,,JR,,,,5,5,5,5,5,5
-,,3,3230,Install LP Lines,,20,20,20,20,20,20,,JR,,,,20,20,20,20,20,20
-,,3,3240,Set Furnace and Install Furnace Vent,,20,20,20,20,20,20,,JR,,,,20,20,20,20,20,20
-,,3,3250,Refer Cabinet,,9,9,9,9,9,9,,JR,,,,9,9,9,9,9,9
-,,3,3260,Trim Refer Cabinet,,10,10,10,10,10,10,,JR,JR,10,,10,10,10,10,10,10
-,,3,3270,Finish installing shower (rivets) & shower head with accesseries,,18,18,18,18,18,18,,JR,,,,18,18,18,18,18,18
-Generator_Choices_ProdGenFuelLine,1,3,3290,Hook Up Fuel Lines,*,10,10,10,10,10,10,,MH,,,,0,0,0,0,0,0
-Radio_Choices_Prod,1,3,3300,Drill External Speaker Holes,*,10,10,10,10,10,10,,MH,,,,0,0,0,0,0,0
-,,3,3310,Install Water Heater,,10,10,10,10,10,10,,JR,,,,10,10,10,10,10,10
-,,3,3320,Install Plumbing and Vent Pipes,,20,20,20,20,20,20,,JR,,,,20,20,20,20,20,20
-,,3,3330,Insulate,,90,100,90,100,110,110,,RS,,,,90,100,90,100,110,110
-,,3,3340,Insulate Front End,,5,5,5,5,5,5,,RS,,,,5,5,5,5,5,5
-Package_BlackExterior_Choices_Prod,1,3,3350,Black Package Metal under Ramp Door (Hinge),*,5,5,5,5,5,5,,MH,,,,0,0,0,0,0,0
-,,3,3360,Hang Rear Corners Stainless Steel,,8,8,8,8,8,8,,MH,,,,8,8,8,8,8,8
-,,3,3370,Prep for CS Metal,,15,15,15,15,15,15,,MH,,,,15,15,15,15,15,15
-,,3,3380,Degabond CS,,5,5,5,5,5,5,,MH,,,,5,5,5,5,5,5
-,,3,3390,Hang CS Metal,,25,30,25,30,35,35,,MH,,,,25,30,25,30,35,35
-TrimPanel_Choices_Prod,1,3,3400,stainless steel metal,*,20,20,20,20,20,20,,MH,,,,0,0,0,0,0,0
-ColorExteriorMetal_Choices_Prod,2,3,3410,two tone metal,*,10,10,10,10,10,10,,MH,,,,0,0,0,0,0,0
-,,3,3420,Route CS Metal,,10,10,10,10,10,15,,MH,,,,10,10,10,10,10,15
-,,3,3430,Prep for RS Metal,,1,1,1,1,1,1,,MH,,,,1,1,1,1,1,1
-,,3,3440,Degabond RS,,5,5,5,5,5,5,,MH,,,,5,5,5,5,5,5
-,,3,3450,Hang RS Metal,,25,25,25,25,25,25,,MH,,,,25,25,25,25,25,25
-TrimPanel_Choices_Prod,1,3,3460,stainless steel metal,*,20,20,20,20,20,20,,MH,,,,0,0,0,0,0,0
-ColorExteriorMetal_Choices_Prod,2,3,3470,two tone metal,*,10,10,10,10,10,10,,MH,,,,0,0,0,0,0,0
-,,3,3480,Route RS Metal,,10,10,10,10,10,15,,MH,,,,10,10,10,10,10,15
-,,3,3490,route exterior shower,*,1,1,1,1,1,1,,MH,,,,0,0,0,0,0,0
-LightsFlood_Choices_Prod,1,3,3500,install flood lights ,*,8,8,8,8,8,8,,MH,,,,0,0,0,0,0,0
-,,3,3510,Prep Front End Metal,,5,5,5,5,5,5,,MH,,,,5,5,5,5,5,5
-,,3,3520,Metal Front End,,25,25,25,25,25,25,,MH,,,,25,25,25,25,25,25
-,,3,3530,Gravel Guard,,20,20,20,20,20,20,,MH,,,,20,20,20,20,20,20
-,,3,3540,Front Trim Pieces,,15,15,15,15,15,15,,MH,,,,15,15,15,15,15,15
-,,3,3550,Route Baggage Doors,,5,5,5,5,5,5,,MH,,,,5,5,5,5,5,5
-,,3,3560,Set Furnace and Install Furnace Vent,,17,17,17,17,17,17,,JR,,,,17,17,17,17,17,17
-,,3,3570,Set Kitchen Base,,7,7,7,7,7,7,,JR,,,,7,7,7,7,7,7
-,,3,3580,Insulate Roof,,28,28,28,28,28,28,,MH,,,,28,28,28,28,28,28
-,,3,3590,Metal Roof and Degabond,,21,21,21,21,21,21,,MH,,,,21,21,21,21,21,21
-,,3,3600,Bend Down Edge of Metal Roof,,10,12,10,12,14,14,,MH,,,,10,12,10,12,14,14
-,,3,3610,Intall Front Roof Trim Piece,,10,10,10,10,10,10,,MH,,,,10,10,10,10,10,10
-,,3,3620,Upper Rub Rail,,45,48,45,48,51,51,,MH,,,,45,48,45,48,51,51
-,,3,3630,Awning Rail,,10,10,10,10,10,10,,MH,,,,10,10,10,10,10,10
-,,3,3640,Upper Clearance Lights,,15,15,15,15,15,15,,MH,,,,15,15,15,15,15,15
-LightsLoading_Choices_Prod,1,3,3650,rear loading lights,*,10,10,10,10,10,10,,MH,,,,0,0,0,0,0,0
-,,3,3660,Holes for Plumbing Vents,,6,6,6,6,6,6,,MH,,,,6,6,6,6,6,6
-,,3,3670,Route Roof Vents,,5,5,5,5,5,5,,MH,,,,5,5,5,5,5,5
-AC_Choices_Prod,1,3,3680,Set AC,*,5,5,5,5,5,5,,MH,,,,0,0,0,0,0,0
-AC_Choices_Prod,2,3,3680,Set 2 Acs,*,10,10,10,10,10,10,,MH,,Made this up,,0,,,,,
-,,3,3690,Install Vents and Seal MaxAir Brackets,,15,15,15,15,15,15,,MH,,,,15,15,15,15,15,15
-VentCover_Bathroom_Choices_Prod,1,3,3700,Install MaxAir Covers - Bathroom,*,5,5,5,5,5,5,,MH,,,,0,0,0,0,0,0
-VentCover_Bedroom_Choices_Prod,1,3,,Install MaxAir Covers - Bedroom,*,5,5,5,5,5,5,,MH,,,,,,,,,
-VentCover_Garage_Choices_Prod,1,3,,Install MaxAir Covers - Garage,*,5,5,5,5,5,5,,MH,,,,,,,,,
-VentCover_Kitchen_Choices_Prod,1,3,,Install MaxAir Covers - Kitchen,*,5,5,5,5,5,5,,MH,,,,,,,,,
-,,3,3710,Install Plumbing and Vent Covers and Tail Pipes,,15,15,15,15,15,15,,MH,,,,15,15,15,15,15,15
-StorageRack_Choices_Prod,1,3,3720,storage rack h style,*,45,45,45,45,45,45,,MH,,,,0,0,0,0,0,0
-StoragePlatform_Choices_Prod,1,3,3730,"storage platform ATP W/ 6"" side rails",*,60,60,60,60,60,60,,MH,,,,0,0,0,0,0,0
-Solar_Choices_Prod,1,3,3740,install solar panal,*,15,15,15,15,15,15,,MH,,,,0,0,0,0,0,0
-,,3,3750,Clean Roof,,6,6,6,6,8,8,,MH,,,,6,6,6,6,8,8
-,,3,3760,Seal Roof,,20,20,20,20,22,22,,MH,,,,20,20,20,20,22,22
-,,3,3770,Seal Under Front Radius and Down Front Edge,,18,18,18,18,18,18,,MH,,,,18,18,18,18,18,18
-,,3,3780,Refer Vent Cap,,2,2,2,2,2,2,,MH,,,,2,2,2,2,2,2
-Antenna_Choices_Prod,1,3,3790,digital antenna,*,10,10,10,10,10,10,,MH,,,,0,0,0,0,0,0
-,,3,3800,Upper Flow Thru Vent - Scene Light - Speakers,,35,35,35,35,35,35,,MH,,,,35,35,35,35,35,35
-,,3,3810,Seal Under Rub Rail,,20,20,20,20,20,20,,MH,,,,20,20,20,20,20,20
-,,3,3820,Kitchen Plumbing,,20,20,20,20,20,20,,JR,,,,20,20,20,20,20,20
-,,3,3830,Install Kitchen Counter Top,,9,9,9,9,9,9,,JR,,,,9,9,9,9,9,9
-,,3,3840,install kitchen backsplash,,8,8,8,8,8,8,,JR,,,,8,8,8,8,8,8
-,,3,3850,Wire Upper Cleanance and Loading Lights (Int. Hook Up),,50,50,50,50,50,50,,MH,,,,50,50,50,50,50,50
-LightsFlood_Choices_Prod,1,3,3860,drill holes for scene lights,*,2,2,2,2,2,2,,MH,,,,0,0,0,0,0,0
-LightsFlood_Choices_Prod,1,3,3870,install scene lights,*,10,10,10,10,10,10,,MH,,,,0,0,0,0,0,0
-,,3,3880,Flow Through Vents,,20,20,20,20,20,20,,MH,,,,20,20,20,20,20,20
-trailerWidth85,1,3,3890,Trim Wheel Wells (8.5' wide only),*,0,0,10,10,10,10,,MH,,,,0,0,0,0,0,0
-Package_FrontBedroom_Choices_Prod,1,3,3910,f.b. - only install plumbing kit,*,0,0,0,0,0,35,,JW,,,,0,0,0,0,0,0
-Package_FrontBedroom_Choices_Prod,1,3,3920,f.b. - only install gas lines,*,0,0,0,0,0,35,,JW,,,,0,0,0,0,0,0
-Package_FrontBedroom_Choices_Prod,1,3,3930,f. b. - install front cabinets,*,0,0,0,0,0,80,,SR,,,,0,0,0,0,0,0
-Package_FrontBedroom_Choices_Prod,1,3,3940,f. b. - install mechanical cab. Set bedroom wall . Install azdel & radius,*,0,0,0,0,0,130,,JW,,,,0,0,0,0,0,0
-Package_FrontBedroom_Choices_Prod,1,3,3950,f. b. - install furnace - water heater - shower.install kitchen radius and azdel,*,0,0,0,0,0,230,,JW,,,,0,0,0,0,0,0
-Package_FrontBedroom_Choices_Prod,1,3,3960,f. b. - install bath vanity and overhead cab,*,0,0,0,0,0,35,,JW,,,,0,0,0,0,0,0
-Package_FrontBedroom_Choices_Prod,1,3,3970,f. b. -install toilet and shower faucet,*,0,0,0,0,0,25,,JW,,,,0,0,0,0,0,0
-Package_FrontBedroom_Choices_Prod,1,3,3980,f.b. - install refer cab. and trim,*,0,0,0,0,0,30,,JW,,,,0,0,0,0,0,0
-Package_FrontBedroom_Choices_Prod,1,3,3990,f.b. - install kitchen base cab. and countertop,*,0,0,0,0,0,60,,JW,,,,0,0,0,0,0,0
-Package_FrontBedroom_Choices_Prod,1,3,4000,f. b. - install radius metal on bath - kit. Wall,*,0,0,0,0,0,25,,JR,,,,0,0,0,0,0,0
-,,,,,,,,,,,,,,,,,,,,,,
-,,,,Total (Min),,1417,1437,1427,1447,1471,2046,,,,,,1068,1088,1068,1088,1112,1002
-,,,,Total (Hours),,23.61666667,23.95,23.78333333,24.11666667,24.51666667,34.1,,,,,,17.8,18.13333333,17.8,18.13333333,18.53333333,16.7
-,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,
-AC_Choices_Prod,,,,,,,,,,,,,,,,,,,,,,
-Antenna_Choices_Prod,,,,,,,,,,,,,,,,,,,,,,
-Battery_Choices_Prod,,,,,,,,,,,,,,,,,,,,,,
-BedDoor_Choices_ProdCS,,,,,,,,,,,,,,,,,,,,,,
-BedDoor_Choices_ProdRS,,,,,,,,,,,,,,,,,,,,,,
-BedLift_Choices_ProdM,,,,,,,,,,,,,,,,,,,,,,
-BedLift_Choices_ProdR,,,,,,,,,,,,,,,,,,,,,,
-CabinetGarageUpperCS_Choices_ProdCSF,,,,,,,,,,,,,,,,,,,,,,
-CabinetGarageUpperCS_Choices_ProdCSM,,,,,,,,,,,,,,,,,,,,,,
-CabinetGarageUpperCS_Choices_ProdCSR,,,,,,,,,,,,,,,,,,,,,,
-CabinetGarageUpperRS_Choices_ProdRSM,,,,,,,,,,,,,,,,,,,,,,
-CabinetGarageUpperRS_Choices_ProdRSR,,,,,,,,,,,,,,,,,,,,,,
-CarpetBedroom_Choices_Prod,,,,,,,,,,,,,,,,,,,,,,
-CarpetGarage_Choices_Prod,,,,,,,,,,,,,,,,,,,,,,
-CarpetKitchen_Choices_Prod,,,,,,,,,,,,,,,,,,,,,,
-CertificationCanadianDOT_Choices_Prod,,,,,,,,,,,,,,,,,,,,,,
-CertificationWashingtonState_Choices_Prod,,,,,,,,,,,,,,,,,,,,,,
-ColorExteriorMetal_Choices_Prod,,,,,,,,,,,,,,,,,,,,,,
-Dinette_Choices_ProdCSF,,,,,,,,,,,,,,,,,,,,,,
-Dinette_Choices_ProdCSM,,,,,,,,,,,,,,,,,,,,,,
-Dinette_Choices_ProdCSR,,,,,,,,,,,,,,,,,,,,,,
-Dinette_Choices_ProdRSM,,,,,,,,,,,,,,,,,,,,,,
-Dinette_Choices_ProdRSR,,,,,,,,,,,,,,,,,,,,,,
-Frame_Lift_Choices_Prod,,,,,,,,,,,,,,,,,,,,,,
-Generator_Choices_ProdFuelTank,,,,,,,,,,,,,,,,,,,,,,
-Generator_Choices_ProdGenFuelLine,,,,,,,,,,,,,,,,,,,,,,
-Generator_Choices_ProdGenPlate,,,,,,,,,,,,,,,,,,,,,,
-Generator_Choices_ProdGenPlate,,,,,,,,,,,,,,,,,,,,,,
-Generator_Choices_ProdTankFuelLine,,,,,,,,,,,,,,,,,,,,,,
-GeneratorCover_Choices_Prod,,,,,,,,,,,,,,,,,,,,,,
-Graphics_Choices_Prod,,,,,,,,,,,,,,,,,,,,,,
-Insulation_Choices_Prod,,,,,,,,,,,,,,,,,,,,,,
-Jacks_Choices_Prod,,,,,,,,,,,,,,,,,,,,,,
-LightsFlood_Choices_Prod,,,,,,,,,,,,,,,,,,,,,,
-LightsLoading_Choices_Prod,,,,,,,,,,,,,,,,,,,,,,
-Microwave_Choices_Prod,,,,,,,,,,,,,,,,,,,,,,
-Package_BlackExterior_Choices_Prod,,,,,,,,,,,,,,,,,,,,,,
-Package_FrontBedroom_Choices_Prod,,,,,,,,,,,,,,,,,,,,,,
-Plumbing_3Season_Choices_Prod,,,,,,,,,,,,,,,,,,,,,,
-Radio_Choices_Prod,,,,,,,,,,,,,,,,,,,,,,
-ShowerExterior_Choices_Prod,,,,,,,,,,,,,,,,,,,,,,
-SofaFront_Choices_ProdCSF,,,,,,,,,,,,,,,,,,,,,,
-SofaMiddle_Choices_ProdCSM,,,,,,,,,,,,,,,,,,,,,,
-SofaMiddle_Choices_ProdRSM,,,,,,,,,,,,,,,,,,,,,,
-SofaRear_Choices_ProdCSR,,,,,,,,,,,,,,,,,,,,,,
-SofaRear_Choices_ProdRSR,,,,,,,,,,,,,,,,,,,,,,
-Solar_Choices_Prod,,,,,,,,,,,,,,,,,,,,,,
-StoragePlatform_Choices_Prod,,,,,,,,,,,,,,,,,,,,,,
-StorageRack_Choices_Prod,,,,,,,,,,,,,,,,,,,,,,
-TieDownsFloor_Choices_ProdATrack,,,,,,,,,,,,,,,,,,,,,,
-TieDownsFloor_Choices_ProdDRing,,,,,,,,,,,,,,,,,,,,,,
-TongueStorage_Choices_Prod,,,,,,,,,,,,,,,,,,,,,,
-trailerWidth70,,,,,,,,,,,,,,,,,,,,,,
-trailerWidth85,,,,,,,,,,,,,,,,,,,,,,
-TrimPanel_Choices_Prod,,,,,,,,,,,,,,,,,,,,,,
-TV_Choices_ProdBed,,,,,,,,,,,,,,,,,,,,,,
-TV_Choices_ProdGar,,,,,,,,,,,,,,,,,,,,,,
-VentBathroom_Choices_Prod,,,,,,,,,,,,,,,,,,,,,,
-VentBedroom_Choices_ProdMax,,,,,,,,,,,,,,,,,,,,,,
-VentBedroom_Choices_ProdStd,,,,,,,,,,,,,,,,,,,,,,
-VentCover_Bathroom_Choices_Prod,,,,,,,,,,,,,,,,,,,,,,
-VentCover_Bedroom_Choices_Prod,,,,,,,,,,,,,,,,,,,,,,
-VentCover_Garage_Choices_Prod,,,,,,,,,,,,,,,,,,,,,,
-VentCover_Kitchen_Choices_Prod,,,,,,,,,,,,,,,,,,,,,,
-VentKitchen_Choices_Prod,,,,,,,,,,,,,,,,,,,,,,
-VinylInsert_Choices_ProdPatio,,,,,,,,,,,,,,,,,,,,,,
-VinylInsert_Choices_ProdScreen,,,,,,,,,,,,,,,,,,,,,,
-Winch_Choices_Prod,,,,,,,,,,,,,,,,,,,,,,
-WindowsCS_Choices_Prod,,,,,,,,,,,,,,,,,,,,,,
-WindowsRS_Choices_Prod,,,,,,,,,,,,,,,,,,,,,,
+Choice_Name,Choice_Value,Station,Process_#,Process_Name,Option,7.0x20,7.0x24,8.5x20,8.5x24,8.5x28,8.5x28FB,People,Responsible,Actual_Person,Date_Studied,7.0x20_,7.0x24_,8.5x20_,8.5x24_,8.5x28_,8528FB_
+,,3,3010,install bathroom upper cab. & countertop,,37,37,37,37,37,37,,J.R.,,,37,37,37,37,37,37
+,,3,3020,install bath backsplash,,8,8,8,8,8,8,,J.R.,,,8,8,8,8,8,8
+,,3,3030,set linen in bathroom,,48,48,48,48,48,48,,J.R.,,,48,48,48,48,48,48
+,,3,3040,set kitchen broom closet,,50,50,50,50,50,50,,J.R.,,,50,50,50,50,50,50
+,,3,3050,install bargman cord & junction box,,65,65,65,65,65,65,,TS,,,65,65,65,65,65,65
+,,3,3060,wire electric jack,,10,10,10,10,10,10,,TS,,,10,10,10,10,10,10
+Battery_Choices_Qty_Prod,1,3,3070,Install Battery,*,20,20,20,20,20,20,,TS,,,0,0,0,0,0,0
+Battery_Choices_Qty_Prod,2,3,3080,Install 2 Batteries,*,40,40,40,40,40,40,,TS,,,0,0,0,0,0,0
+Solar_Choices_Prod,1,3,3090,install solar panal controller,*,8,8,8,8,8,8,,TS,,,0,0,0,0,0,0
+,,3,3100,Loom Wires Where Needed,,27,27,27,27,27,27,,TS,,,27,27,27,27,27,27
+,,3,3110,Low point drains & water lines.     (std. unit),,26,26,26,26,26,26,,JR,,,26,26,26,26,26,26
+,,3,3120,Install Shower,,8,8,8,8,8,8,,JR,,,8,8,8,8,8,8
+,,3,3130,Shower Faucet,,2,2,2,2,2,2,,JR,,,2,2,2,2,2,2
+,,3,3140,Set Bath Wall and Drill Holes for Plumbing and Wiring,,20,20,20,20,20,20,,JR,,,20,20,20,20,20,20
+,,3,3150,Plumb Drain Vents,,10,10,10,10,10,10,,JR,,,10,10,10,10,10,10
+,,3,3160,Panel Interior Bathroom,,10,10,10,10,10,10,,JR,,,10,10,10,10,10,10
+,,3,3170,Panel Outside of Bath Wall,,9,9,9,9,9,9,,JR,,,9,9,9,9,9,9
+,,3,3180,Install remainder of ceiling panals,,30,30,30,30,30,30,,JR,,,30,30,30,30,30,30
+,,3,3190,Panel All Interior Walls,,120,120,120,120,120,,,JR,JR,11/9/16,120,120,120,120,120,0
+,,3,3210,Install and Hook Up Front Plumbing Kit,,13,13,13,13,13,13,,JR,,,13,13,13,13,13,13
+,,3,3220,Mount pump & hook up electric,,5,5,5,5,5,5,,JR,,,5,5,5,5,5,5
+,,3,3230,Install LP Lines,,20,20,20,20,20,20,,JR,,,20,20,20,20,20,20
+,,3,3240,Set Furnace and Install Furnace Vent,,20,20,20,20,20,20,,JR,,,20,20,20,20,20,20
+,,3,3250,Refer Cabinet,,9,9,9,9,9,9,,JR,,,9,9,9,9,9,9
+,,3,3260,Trim Refer Cabinet,,10,10,10,10,10,10,,JR,JR,10,10,10,10,10,10,10
+,,3,3270,Finish installing shower (rivets) & shower head with accesseries,,18,18,18,18,18,18,,JR,,,18,18,18,18,18,18
+Generator_Choices_ProdGenFuelLine,1,3,3290,Hook Up Fuel Lines,*,10,10,10,10,10,10,,MH,,,0,0,0,0,0,0
+Radio_Choices_Prod,1,3,3300,Drill External Speaker Holes,*,10,10,10,10,10,10,,MH,,,0,0,0,0,0,0
+,,3,3310,Install Water Heater,,10,10,10,10,10,10,,JR,,,10,10,10,10,10,10
+,,3,3320,Install Plumbing and Vent Pipes,,20,20,20,20,20,20,,JR,,,20,20,20,20,20,20
+,,3,3330,Insulate,,90,100,90,100,110,110,,RS,,,90,100,90,100,110,110
+,,3,3340,Insulate Front End,,5,5,5,5,5,5,,RS,,,5,5,5,5,5,5
+Package_BlackExterior_Choices_Prod,1,3,3350,Black Package Metal under Ramp Door (Hinge),*,5,5,5,5,5,5,,MH,,,0,0,0,0,0,0
+,,3,3360,Hang Rear Corners Stainless Steel,,8,8,8,8,8,8,,MH,,,8,8,8,8,8,8
+,,3,3370,Prep for CS Metal,,15,15,15,15,15,15,,MH,,,15,15,15,15,15,15
+,,3,3380,Degabond CS,,5,5,5,5,5,5,,MH,,,5,5,5,5,5,5
+,,3,3390,Hang CS Metal,,25,30,25,30,35,35,,MH,,,25,30,25,30,35,35
+TrimPanel_Choices_Prod,1,3,3400,stainless steel metal,*,20,20,20,20,20,20,,MH,,,0,0,0,0,0,0
+ColorExteriorMetal_Choices_Prod,2,3,3410,two tone metal,*,10,10,10,10,10,10,,MH,,,0,0,0,0,0,0
+,,3,3420,Route CS Metal,,10,10,10,10,10,15,,MH,,,10,10,10,10,10,15
+,,3,3430,Prep for RS Metal,,1,1,1,1,1,1,,MH,,,1,1,1,1,1,1
+,,3,3440,Degabond RS,,5,5,5,5,5,5,,MH,,,5,5,5,5,5,5
+,,3,3450,Hang RS Metal,,25,25,25,25,25,25,,MH,,,25,25,25,25,25,25
+TrimPanel_Choices_Prod,1,3,3460,stainless steel metal,*,20,20,20,20,20,20,,MH,,,0,0,0,0,0,0
+ColorExteriorMetal_Choices_Prod,2,3,3470,two tone metal,*,10,10,10,10,10,10,,MH,,,0,0,0,0,0,0
+,,3,3480,Route RS Metal,,10,10,10,10,10,15,,MH,,,10,10,10,10,10,15
+ShowerExternal_Choices_Prod,1,3,3490,route exterior shower,*,1,1,1,1,1,1,,MH,,,0,0,0,0,0,0
+LightsFlood_Choices_Prod,1,3,3500,install flood lights ,*,8,8,8,8,8,8,,MH,,,0,0,0,0,0,0
+,,3,3510,Prep Front End Metal,,5,5,5,5,5,5,,MH,,,5,5,5,5,5,5
+,,3,3520,Metal Front End,,25,25,25,25,25,25,,MH,,,25,25,25,25,25,25
+,,3,3530,Gravel Guard,,20,20,20,20,20,20,,MH,,,20,20,20,20,20,20
+,,3,3540,Front Trim Pieces,,15,15,15,15,15,15,,MH,,,15,15,15,15,15,15
+,,3,3550,Route Baggage Doors,,5,5,5,5,5,5,,MH,,,5,5,5,5,5,5
+,,3,3560,Set Furnace and Install Furnace Vent,,17,17,17,17,17,17,,JR,,,17,17,17,17,17,17
+,,3,3570,Set Kitchen Base,,7,7,7,7,7,7,,JR,,,7,7,7,7,7,7
+,,3,3580,Insulate Roof,,28,28,28,28,28,28,,MH,,,28,28,28,28,28,28
+,,3,3590,Metal Roof and Degabond,,21,21,21,21,21,21,,MH,,,21,21,21,21,21,21
+,,3,3600,Bend Down Edge of Metal Roof,,10,12,10,12,14,14,,MH,,,10,12,10,12,14,14
+,,3,3610,Intall Front Roof Trim Piece,,10,10,10,10,10,10,,MH,,,10,10,10,10,10,10
+,,3,3620,Upper Rub Rail,,45,48,45,48,51,51,,MH,,,45,48,45,48,51,51
+,,3,3630,Awning Rail,,10,10,10,10,10,10,,MH,,,10,10,10,10,10,10
+,,3,3640,Upper Clearance Lights,,15,15,15,15,15,15,,MH,,,15,15,15,15,15,15
+LightsLoading_Choices_Prod,1,3,3650,rear loading lights,*,10,10,10,10,10,10,,MH,,,0,0,0,0,0,0
+,,3,3660,Holes for Plumbing Vents,,6,6,6,6,6,6,,MH,,,6,6,6,6,6,6
+,,3,3670,Route Roof Vents,,5,5,5,5,5,5,,MH,,,5,5,5,5,5,5
+AC_Choices_Prod,1,3,3680,Set AC,*,5,5,5,5,5,5,,MH,,,0,0,0,0,0,0
+AC_Choices_Prod,2,3,3680,Set 2 Acs,*,10,10,10,10,10,10,,MH,,Made this up,0,,,,,
+,,3,3690,Install Vents and Seal MaxAir Brackets,,15,15,15,15,15,15,,MH,,,15,15,15,15,15,15
+VentCover_Bathroom_Choices_Prod,1,3,3700,Install MaxAir Covers - Bathroom,*,5,5,5,5,5,5,,MH,,,0,0,0,0,0,0
+VentCover_Bedroom_Choices_Prod,1,,,Install MaxAir Covers - Bedroom,*,5,5,5,5,5,5,,MH,,,,,,,,
+VentCover_Garage_Choices_Prod,1,,,Install MaxAir Covers - Garage,*,5,5,5,5,5,5,,MH,,,,,,,,
+VentCover_Kitchen_Choices_Prod,1,,,Install MaxAir Covers - Kitchen,*,5,5,5,5,5,5,,MH,,,,,,,,
+,,3,3710,Install Plumbing and Vent Covers and Tail Pipes,,15,15,15,15,15,15,,MH,,,15,15,15,15,15,15
+StorageRack_Choices_Prod,1,3,3720,storage rack h style,*,45,45,45,45,45,45,,MH,,,0,0,0,0,0,0
+StoragePlatform_Choices_Prod,1,3,3730,storage platform ATP W/ 6 inch side rails,*,60,60,60,60,60,60,,MH,,,0,0,0,0,0,0
+Solar_Choices_Prod,1,3,3740,install solar panal,*,15,15,15,15,15,15,,MH,,,0,0,0,0,0,0
+,,3,3750,Clean Roof,,6,6,6,6,8,8,,MH,,,6,6,6,6,8,8
+,,3,3760,Seal Roof,,20,20,20,20,22,22,,MH,,,20,20,20,20,22,22
+,,3,3770,Seal Under Front Radius and Down Front Edge,,18,18,18,18,18,18,,MH,,,18,18,18,18,18,18
+,,3,3780,Refer Vent Cap,,2,2,2,2,2,2,,MH,,,2,2,2,2,2,2
+Antenna_Choices_Prod,1,3,3790,digital antenna,*,10,10,10,10,10,10,,MH,,,0,0,0,0,0,0
+,,3,3800,Upper Flow Thru Vent - Scene Light - Speakers,,35,35,35,35,35,35,,MH,,,35,35,35,35,35,35
+,,3,3810,Seal Under Rub Rail,,20,20,20,20,20,20,,MH,,,20,20,20,20,20,20
+,,3,3820,Kitchen Plumbing,,20,20,20,20,20,20,,JR,,,20,20,20,20,20,20
+,,3,3830,Install Kitchen Counter Top,,9,9,9,9,9,9,,JR,,,9,9,9,9,9,9
+,,3,3840,install kitchen backsplash,,8,8,8,8,8,8,,JR,,,8,8,8,8,8,8
+,,3,3850,Wire Upper Cleanance and Loading Lights (Int. Hook Up),,50,50,50,50,50,50,,MH,,,50,50,50,50,50,50
+LightsFlood_Choices_Prod,1,3,3860,drill holes for scene lights,*,2,2,2,2,2,2,,MH,,,0,0,0,0,0,0
+LightsFlood_Choices_Prod,1,3,3870,install scene lights,*,10,10,10,10,10,10,,MH,,,0,0,0,0,0,0
+,,3,3880,Flow Through Vents,,20,20,20,20,20,20,,MH,,,20,20,20,20,20,20
+trailerWidth85,1,3,3890,Trim Wheel Wells (8.5' wide only),*,,,10,10,10,10,,MH,,,0,0,0,0,0,0
+,,3,3900,,,,,,,,,,,,,0,0,0,0,0,0
+Package_FrontBedroom_Choices_Prod,1,3,3910,f.b. - only install plumbing kit,*,,,,,,35,,JW,,,0,0,0,0,0,0
+Package_FrontBedroom_Choices_Prod,1,3,3920,f.b. - only install gas lines,*,,,,,,35,,JW,,,0,0,0,0,0,0
+Package_FrontBedroom_Choices_Prod,1,3,3930,f. b. - install front cabinets,*,,,,,,80,,SR,,,0,0,0,0,0,0
+Package_FrontBedroom_Choices_Prod,1,3,3940,f. b. - install mechanical cab - Set bedroom wall - Install azdel & radius,*,,,,,,130,,JW,,,0,0,0,0,0,0
+Package_FrontBedroom_Choices_Prod,1,3,3950,f. b. - install furnace - water heater - shower.install kitchen radius & azdel,*,,,,,,230,,JW,,,0,0,0,0,0,0
+Package_FrontBedroom_Choices_Prod,1,3,3960,f. b. - install bath vanity & overhead cab,*,,,,,,35,,JW,,,0,0,0,0,0,0
+Package_FrontBedroom_Choices_Prod,1,3,3970,f. b. -install toilet & shower faucet,*,,,,,,25,,JW,,,0,0,0,0,0,0
+Package_FrontBedroom_Choices_Prod,1,3,3980,f.b. - install refer cab & trim,*,,,,,,30,,JW,,,0,0,0,0,0,0
+Package_FrontBedroom_Choices_Prod,1,3,3990,f.b. - install kitchen base cab. & countertop,*,,,,,,60,,JW,,,0,0,0,0,0,0
+Package_FrontBedroom_Choices_Prod,1,3,4000,f. b. - install radius metal on bath- kit. Wall,*,,,,,,25,,JR,,,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,
+,,,,Total (Min),,1417,1437,1427,1447,1471,2046,,,,,1068,1088,1068,1088,1112,1002
+,,,,Total (Hours),,23.61666667,23.95,23.78333333,24.11666667,24.51666667,34.1,,,,,17.8,18.13333333,17.8,18.13333333,18.53333333,16.70
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+AC_Choices_Prod,,,,,,,,,,,,,,,,,,,,,
+Antenna_Choices_Prod,,,,,,,,,,,,,,,,,,,,,
+Battery_Choices_Prod,,,,,,,,,,,,,,,,,,,,,
+BedDoor_Choices_ProdCS,,,,,,,,,,,,,,,,,,,,,
+BedDoor_Choices_ProdRS,,,,,,,,,,,,,,,,,,,,,
+BedLift_Choices_ProdM,,,,,,,,,,,,,,,,,,,,,
+BedLift_Choices_ProdR,,,,,,,,,,,,,,,,,,,,,
+CabinetGarageUpperCS_Choices_ProdCSF,,,,,,,,,,,,,,,,,,,,,
+CabinetGarageUpperCS_Choices_ProdCSM,,,,,,,,,,,,,,,,,,,,,
+CabinetGarageUpperCS_Choices_ProdCSR,,,,,,,,,,,,,,,,,,,,,
+CabinetGarageUpperRS_Choices_ProdRSM,,,,,,,,,,,,,,,,,,,,,
+CabinetGarageUpperRS_Choices_ProdRSR,,,,,,,,,,,,,,,,,,,,,
+CarpetBedroom_Choices_Prod,,,,,,,,,,,,,,,,,,,,,
+CarpetGarage_Choices_Prod,,,,,,,,,,,,,,,,,,,,,
+CarpetKitchen_Choices_Prod,,,,,,,,,,,,,,,,,,,,,
+CertificationCanadianDOT_Choices_Prod,,,,,,,,,,,,,,,,,,,,,
+CertificationWashingtonState_Choices_Prod,,,,,,,,,,,,,,,,,,,,,
+ColorExteriorMetal_Choices_Prod,,,,,,,,,,,,,,,,,,,,,
+Dinette_Choices_ProdCSF,,,,,,,,,,,,,,,,,,,,,
+Dinette_Choices_ProdCSM,,,,,,,,,,,,,,,,,,,,,
+Dinette_Choices_ProdCSR,,,,,,,,,,,,,,,,,,,,,
+Dinette_Choices_ProdRSM,,,,,,,,,,,,,,,,,,,,,
+Dinette_Choices_ProdRSR,,,,,,,,,,,,,,,,,,,,,
+Frame_Lift_Choices_Prod,,,,,,,,,,,,,,,,,,,,,
+Generator_Choices_ProdFuelTank,,,,,,,,,,,,,,,,,,,,,
+Generator_Choices_ProdGenFuelLine,,,,,,,,,,,,,,,,,,,,,
+Generator_Choices_ProdGenPlate,,,,,,,,,,,,,,,,,,,,,
+Generator_Choices_ProdGenPlate,,,,,,,,,,,,,,,,,,,,,
+Generator_Choices_ProdTankFuelLine,,,,,,,,,,,,,,,,,,,,,
+GeneratorCover_Choices_Prod,,,,,,,,,,,,,,,,,,,,,
+Graphics_Choices_Prod,,,,,,,,,,,,,,,,,,,,,
+Insulation_Choices_Prod,,,,,,,,,,,,,,,,,,,,,
+Jacks_Choices_Prod,,,,,,,,,,,,,,,,,,,,,
+LightsFlood_Choices_Prod,,,,,,,,,,,,,,,,,,,,,
+LightsLoading_Choices_Prod,,,,,,,,,,,,,,,,,,,,,
+Microwave_Choices_Prod,,,,,,,,,,,,,,,,,,,,,
+Package_BlackExterior_Choices_Prod,,,,,,,,,,,,,,,,,,,,,
+Package_FrontBedroom_Choices_Prod,,,,,,,,,,,,,,,,,,,,,
+Plumbing_3Season_Choices_Prod,,,,,,,,,,,,,,,,,,,,,
+Radio_Choices_Prod,,,,,,,,,,,,,,,,,,,,,
+ShowerExternal_Choices_Prod,,,,,,,,,,,,,,,,,,,,,
+SofaFront_Choices_ProdCSF,,,,,,,,,,,,,,,,,,,,,
+SofaMiddle_Choices_ProdCSM,,,,,,,,,,,,,,,,,,,,,
+SofaMiddle_Choices_ProdRSM,,,,,,,,,,,,,,,,,,,,,
+SofaRear_Choices_ProdCSR,,,,,,,,,,,,,,,,,,,,,
+SofaRear_Choices_ProdRSR,,,,,,,,,,,,,,,,,,,,,
+Solar_Choices_Prod,,,,,,,,,,,,,,,,,,,,,
+StoragePlatform_Choices_Prod,,,,,,,,,,,,,,,,,,,,,
+StorageRack_Choices_Prod,,,,,,,,,,,,,,,,,,,,,
+TieDownsFloor_Choices_ProdATrack,,,,,,,,,,,,,,,,,,,,,
+TieDownsFloor_Choices_ProdDRing,,,,,,,,,,,,,,,,,,,,,
+TongueStorage_Choices_Prod,,,,,,,,,,,,,,,,,,,,,
+trailerWidth70,,,,,,,,,,,,,,,,,,,,,
+trailerWidth85,,,,,,,,,,,,,,,,,,,,,
+TrimPanel_Choices_Prod,,,,,,,,,,,,,,,,,,,,,
+TV_Choices_ProdBed,,,,,,,,,,,,,,,,,,,,,
+TV_Choices_ProdGar,,,,,,,,,,,,,,,,,,,,,
+VentBathroom_Choices_Prod,,,,,,,,,,,,,,,,,,,,,
+VentBedroom_Choices_ProdMax,,,,,,,,,,,,,,,,,,,,,
+VentBedroom_Choices_ProdStd,,,,,,,,,,,,,,,,,,,,,
+VentCover_Bathroom_Choices_Prod,,,,,,,,,,,,,,,,,,,,,
+VentCover_Bedroom_Choices_Prod,,,,,,,,,,,,,,,,,,,,,
+VentCover_Garage_Choices_Prod,,,,,,,,,,,,,,,,,,,,,
+VentCover_Kitchen_Choices_Prod,,,,,,,,,,,,,,,,,,,,,
+VentKitchen_Choices_Prod,,,,,,,,,,,,,,,,,,,,,
+VinylInsert_Choices_ProdPatio,,,,,,,,,,,,,,,,,,,,,
+VinylInsert_Choices_ProdScreen,,,,,,,,,,,,,,,,,,,,,
+Winch_Choices_Prod,,,,,,,,,,,,,,,,,,,,,
+WindowsCS_Choices_Prod,,,,,,,,,,,,,,,,,,,,,
+WindowsRS_Choices_Prod,,,,,,,,,,,,,,,,,,,,,
